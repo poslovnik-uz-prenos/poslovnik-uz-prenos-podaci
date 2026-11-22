@@ -13,13 +13,13 @@ Sve što se ovde objavi je **javno**. Ovo uključuje i AI oznake „moguća povr
    git add .
    git commit -m "Početak"
    git branch -M main
-   git remote add origin https://github.com/hraband/poslovnik-uz-prenos-podaci.git
+   git remote add origin https://github.com/poslovnik-uz-prenos/poslovnik-uz-prenos-podaci.git
    git push -u origin main
    ```
 3. Na GitHub-u, u repou, otvori **Settings → Pages**. Pod „Build and deployment“ izaberi **Deploy from a branch**, grana `main`, folder `/ (root)`, pa **Save**. Posle minut-dva sajt je na
-   `https://hraband.github.io/poslovnik-uz-prenos-podaci/`
+   `https://poslovnik-uz-prenos.github.io/poslovnik-uz-prenos-podaci/`
 4. U proširenju otvori panel, pa **Podešavanja** na dnu. Upiši
-   `https://hraband.github.io/poslovnik-uz-prenos-podaci/sednice`
+   `https://poslovnik-uz-prenos.github.io/poslovnik-uz-prenos-podaci/sednice`
    i klikni **Sačuvaj**. Chrome pita za dozvolu za tu adresu, a ti je dozvoli.
 
 **Proba:** u repou je već jedan probni fajl, za deo III od 17. 11. (samo 5 ukazivanja na povredu, bez AI). Otvori deo III. Na dnu panela treba da piše „Izvor: podaci sa linka“.
