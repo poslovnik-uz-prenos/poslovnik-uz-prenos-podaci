@@ -3,13 +3,13 @@
  "videoId": "nFeM13HeRHI",
  "naslov": "Prva sednica 15. saziva, drugi dan (deo 3)",
  "rezim": "snimak",
- "generisano": "2026-11-22T18:30:44+0100",
+ "generisano": "2026-11-22T18:46:50+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
    "t": 9.32,
    "tip": "clan",
-   "govornik": "Biljana Pantić Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja",
    "vrsta": "povreda Poslovnika",
    "clanovi": [
     8
@@ -22,7 +22,7 @@
   {
    "t": 18.64,
    "tip": "moguca",
-   "govornik": "Biljana Pantić Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja",
    "clanovi": [
     107
    ],
@@ -35,7 +35,7 @@
   {
    "t": 48.28,
    "tip": "moguca",
-   "govornik": "Biljana Pantić Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja",
    "clanovi": [
     107
    ],
@@ -48,7 +48,7 @@
   {
    "t": 115.02,
    "tip": "clan",
-   "govornik": "Petar Mitov (procena)",
+   "govornik": "da",
    "vrsta": "povreda Poslovnika",
    "clanovi": [
     103
@@ -74,7 +74,7 @@
   {
    "t": 1200.0,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -87,7 +87,7 @@
   {
    "t": 1259.96,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -100,7 +100,7 @@
   {
    "t": 1316.7,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -113,7 +113,7 @@
   {
    "t": 1379.8,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -126,7 +126,7 @@
   {
    "t": 1662.26,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -139,7 +139,7 @@
   {
    "t": 1800.0,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -152,7 +152,7 @@
   {
    "t": 1846.98,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     106
    ],
@@ -178,7 +178,7 @@
   {
    "t": 2199.7,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -191,7 +191,7 @@
   {
    "t": 2295.54,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -204,7 +204,7 @@
   {
    "t": 2314.44,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -217,7 +217,7 @@
   {
    "t": 2400.0,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -230,7 +230,7 @@
   {
    "t": 2425.88,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -243,7 +243,7 @@
   {
    "t": 2528.68,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -256,7 +256,7 @@
   {
    "t": 2577.46,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -269,7 +269,7 @@
   {
    "t": 2586.54,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -282,7 +282,7 @@
   {
    "t": 2595.66,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -306,7 +306,7 @@
   {
    "t": 2789.76,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -319,7 +319,7 @@
   {
    "t": 2809.08,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -332,7 +332,7 @@
   {
    "t": 2981.84,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -345,7 +345,7 @@
   {
    "t": 3061.82,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -358,7 +358,7 @@
   {
    "t": 3076.94,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -371,7 +371,7 @@
   {
    "t": 3111.52,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -384,7 +384,7 @@
   {
    "t": 3275.66,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -397,7 +397,7 @@
   {
    "t": 3318.3,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -410,7 +410,7 @@
   {
    "t": 3318.3,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -423,7 +423,7 @@
   {
    "t": 3334.68,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -436,7 +436,7 @@
   {
    "t": 3572.32,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -449,7 +449,7 @@
   {
    "t": 3635.8,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -462,7 +462,7 @@
   {
    "t": 3635.8,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     106
    ],
@@ -475,7 +475,7 @@
   {
    "t": 3651.44,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -488,7 +488,7 @@
   {
    "t": 3698.24,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     106
    ],
@@ -501,7 +501,7 @@
   {
    "t": 3716.14,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -514,7 +514,7 @@
   {
    "t": 3760.38,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -527,7 +527,7 @@
   {
    "t": 3770.24,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -540,7 +540,7 @@
   {
    "t": 3833.5,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -553,7 +553,7 @@
   {
    "t": 3840.74,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     107
    ],
@@ -566,7 +566,7 @@
   {
    "t": 3844.12,
    "tip": "moguca",
-   "govornik": "nisu prikazali to je dobacivanje",
+   "govornik": "govornik nije prepoznat",
    "clanovi": [
     106
    ],
@@ -579,7 +579,7 @@
   {
    "t": 4004.54,
    "tip": "moguca",
-   "govornik": "Sanja Fric (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -605,7 +605,7 @@
   {
    "t": 4507.02,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -618,7 +618,7 @@
   {
    "t": 4523.38,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -631,7 +631,7 @@
   {
    "t": 4540.28,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -644,7 +644,7 @@
   {
    "t": 4569.1,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     106
    ],
@@ -657,7 +657,7 @@
   {
    "t": 4609.82,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     106
    ],
@@ -670,7 +670,7 @@
   {
    "t": 4669.6,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -683,7 +683,7 @@
   {
    "t": 4871.24,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -696,7 +696,7 @@
   {
    "t": 4876.9,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -709,7 +709,7 @@
   {
    "t": 4903.4,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -722,7 +722,7 @@
   {
    "t": 5160.68,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -735,7 +735,7 @@
   {
    "t": 5188.94,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -748,7 +748,7 @@
   {
    "t": 5361.28,
    "tip": "clan",
-   "govornik": "Petar Mitov (procena)",
+   "govornik": "da",
    "vrsta": "povreda Poslovnika",
    "clanovi": [
     100
@@ -855,7 +855,7 @@
   {
    "t": 6697.96,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -868,7 +868,7 @@
   {
    "t": 6697.96,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -881,7 +881,7 @@
   {
    "t": 6722.5,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -894,7 +894,7 @@
   {
    "t": 6759.8,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -907,7 +907,7 @@
   {
    "t": 6806.68,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -920,7 +920,7 @@
   {
    "t": 6822.0,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -933,7 +933,7 @@
   {
    "t": 6850.18,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -946,7 +946,7 @@
   {
    "t": 7027.46,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -959,7 +959,7 @@
   {
    "t": 7032.22,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -972,7 +972,7 @@
   {
    "t": 7344.98,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -985,7 +985,7 @@
   {
    "t": 7369.3,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
@@ -998,7 +998,7 @@
   {
    "t": 7407.44,
    "tip": "moguca",
-   "govornik": "Aleksandar Vučić (procena)",
+   "govornik": "da",
    "clanovi": [
     107
    ],
