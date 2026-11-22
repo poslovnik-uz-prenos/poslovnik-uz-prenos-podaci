@@ -3,7 +3,7 @@
  "videoId": "Xb8iKakRVN4",
  "naslov": "Prva sednica 15. saziva, drugi dan (deo 1)",
  "rezim": "snimak",
- "generisano": "2026-11-22T13:50:02+0000",
+ "generisano": "2026-11-22T18:30:43+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -20,21 +20,23 @@
    "id": "p2385"
   },
   {
-   "t": 371.2,
+   "t": 313.96,
    "tip": "clan",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Ilija Srdanović",
    "vrsta": "povreda Poslovnika",
-   "clanovi": [],
-   "kontekst": "Mislim da je dužnost da danas odamo počast heroju koji je juče dao svoj život za našu zemlju. Mislim da je red da se današnja sednica započne sa minutom tišine njemu čast. I svima koji se toga nisu setili, a vama poštovani predsedavajući na",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "Povreda poslovnika.",
    "odluka": "",
    "napomena": "",
-   "id": "p3712"
+   "id": "p3139"
   },
   {
    "t": 552.06,
    "tip": "clan",
-   "govornik": "Predsedavajući Stojan Radenović",
-   "vrsta": "pomen člana",
+   "govornik": "da",
+   "vrsta": "povreda Poslovnika",
    "clanovi": [
     103
    ],
@@ -46,7 +48,7 @@
   {
    "t": 1006.16,
    "tip": "moguca",
-   "govornik": "Vučić (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -59,7 +61,7 @@
   {
    "t": 1096.86,
    "tip": "moguca",
-   "govornik": "Vučić (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -72,7 +74,7 @@
   {
    "t": 1136.72,
    "tip": "moguca",
-   "govornik": "Vučić (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -85,7 +87,7 @@
   {
    "t": 1309.92,
    "tip": "moguca",
-   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -98,7 +100,7 @@
   {
    "t": 1385.84,
    "tip": "moguca",
-   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -111,7 +113,7 @@
   {
    "t": 1441.38,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -124,7 +126,7 @@
   {
    "t": 1447.8,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -137,7 +139,7 @@
   {
    "t": 1461.3,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -150,7 +152,7 @@
   {
    "t": 1476.4,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -163,7 +165,7 @@
   {
    "t": 1492.44,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -176,7 +178,7 @@
   {
    "t": 1566.8,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -189,7 +191,7 @@
   {
    "t": 1754.34,
    "tip": "moguca",
-   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -202,7 +204,7 @@
   {
    "t": 2069.68,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -215,7 +217,7 @@
   {
    "t": 2123.52,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -228,7 +230,7 @@
   {
    "t": 2143.76,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -241,7 +243,7 @@
   {
    "t": 2211.22,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -254,7 +256,7 @@
   {
    "t": 2231.78,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     106
    ],
@@ -267,7 +269,7 @@
   {
    "t": 2392.76,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -280,7 +282,7 @@
   {
    "t": 2410.06,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     106
    ],
@@ -293,7 +295,7 @@
   {
    "t": 2421.48,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -306,7 +308,7 @@
   {
    "t": 2448.88,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -319,7 +321,7 @@
   {
    "t": 2867.98,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -332,7 +334,7 @@
   {
    "t": 3168.02,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -345,7 +347,7 @@
   {
    "t": 3176.44,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -358,7 +360,7 @@
   {
    "t": 3185.54,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -371,7 +373,7 @@
   {
    "t": 3185.54,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -384,7 +386,7 @@
   {
    "t": 3213.46,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     106
    ],
@@ -395,23 +397,23 @@
    "id": "a32134"
   },
   {
-   "t": 3554.52,
+   "t": 3608.08,
    "tip": "clan",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Petar Mitov",
    "vrsta": "povreda Poslovnika",
    "clanovi": [
     100,
     103
    ],
-   "kontekst": "Dobro, mislim, moram da im dam, ali znate zašto?",
+   "kontekst": "Poštovani predsedavajući, hvala vam na priliku da učežem na povredu poslovniča.",
    "odluka": "",
    "napomena": "",
-   "id": "p35545"
+   "id": "p36080"
   },
   {
    "t": 3656.22,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Petar Mitov",
    "clanovi": [
     107
    ],
@@ -464,7 +466,7 @@
   {
    "t": 3928.5,
    "tip": "clan",
-   "govornik": "Vučić (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "vrsta": "povreda Poslovnika",
    "clanovi": [],
    "kontekst": "A to je ono različiti aršini i različiti pogledi. Za vas nije bilo potrebno da se javite za povredu poslovnika, jer ste nas, koji smo za razliku od vas inače održali minuć utanja i zastradali u Milicu Živković, a vama nikad nije palo na pam",
@@ -475,7 +477,7 @@
   {
    "t": 3955.66,
    "tip": "moguca",
-   "govornik": "Vučić (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -488,7 +490,7 @@
   {
    "t": 3990.06,
    "tip": "moguca",
-   "govornik": "Vučić (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -512,33 +514,33 @@
    "id": "a40593"
   },
   {
-   "t": 4071.26,
+   "t": 4094.22,
    "tip": "clan",
    "govornik": "Sanja Belić (procena)",
-   "vrsta": "povreda Poslovnika",
-   "clanovi": [],
-   "kontekst": "Sanja Frica.",
-   "odluka": "",
-   "napomena": "",
-   "id": "p40712"
-  },
-  {
-   "t": 4092.06,
-   "tip": "clan",
-   "govornik": "Sanja Fric (procena)",
    "vrsta": "povreda Poslovnika",
    "clanovi": [
     100
    ],
-   "kontekst": "Tako je.",
+   "kontekst": "Poštovani predsedavajući,",
    "odluka": "",
    "napomena": "",
-   "id": "p40920"
+   "id": "p40942"
+  },
+  {
+   "t": 4142.66,
+   "tip": "clan",
+   "govornik": "govornik nije prepoznat",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Hvala.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p41426"
   },
   {
    "t": 6000.0,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -551,7 +553,7 @@
   {
    "t": 6119.72,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -564,7 +566,7 @@
   {
    "t": 6244.94,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -577,7 +579,7 @@
   {
    "t": 6256.84,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -586,6 +588,19 @@
    "pouzdanost": "visoka",
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'primitivni' i 'najgorih'.",
    "id": "a62568"
+  },
+  {
+   "t": 6426.98,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić (procena)",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Da vam kažem, gospodine Radenoviću, ja vas molim samo da zatražite od njih tokom pauze i da pitate, zvanično možete da prenesete i moje reči kao šefa poslaničke grupe, nadam se da će stručnjaci sa RTS-a da odgovore šta im je to danas bilo važnije od najvažnije konstitutivne sednice, jer su juče oborili sve rekorde, imali su ukupan šer oko 20%,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda jer se duži deo govora odnosi na gledanost RTS-a, a ne na tačku dnevnog reda.",
+   "id": "a64269"
   }
  ]
 }
