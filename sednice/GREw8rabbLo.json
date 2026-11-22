@@ -3,7 +3,7 @@
  "videoId": "GREw8rabbLo",
  "naslov": "Prva sednica 15. saziva, drugi dan (deo 2)",
  "rezim": "snimak",
- "generisano": "2026-11-22T13:28:05+0000",
+ "generisano": "2026-11-22T13:50:02+0000",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -22,7 +22,7 @@
   {
    "t": 837.42,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -48,7 +48,7 @@
   {
    "t": 2428.26,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -151,15 +151,15 @@
    "id": "p32735"
   },
   {
-   "t": 3438.7,
+   "t": 3443.66,
    "tip": "clan",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Usame Zuhorović (procena)",
    "vrsta": "povreda Poslovnika",
    "clanovi": [],
-   "kontekst": "Idemo dalje. Poslan je gospodin Usame Zuhorović, reklamira povred u poslu.",
+   "kontekst": "Ne, ne, ne.",
    "odluka": "",
    "napomena": "",
-   "id": "p34387"
+   "id": "p34436"
   },
   {
    "t": 3897.53,
@@ -307,7 +307,7 @@
   {
    "t": 5244.86,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -320,7 +320,7 @@
   {
    "t": 5330.62,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -368,17 +368,6 @@
    "pouzdanost": "srednja",
    "obrazlozenje": "Moguća povreda dostojanstva Narodne skupštine iznošenjem tvrdnji o laganju i prikrivanju činjenica u biografiji.",
    "id": "a59362"
-  },
-  {
-   "t": 5983.24,
-   "tip": "clan",
-   "govornik": "govornik nije prepoznat",
-   "vrsta": "povreda Poslovnika",
-   "clanovi": [],
-   "kontekst": "Izvakanju, da li jasno osim neku krivicu?",
-   "odluka": "",
-   "napomena": "",
-   "id": "p59832"
   },
   {
    "t": 6159.08,
