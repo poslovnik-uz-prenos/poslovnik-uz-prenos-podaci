@@ -3,17 +3,16 @@
  "videoId": "Xb8iKakRVN4",
  "naslov": "Prva sednica 15. saziva, drugi dan (deo 1)",
  "rezim": "snimak",
- "generisano": "2026-11-22T13:28:05+0000",
+ "generisano": "2026-11-22T13:50:02+0000",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
    "t": 238.52,
    "tip": "clan",
-   "govornik": "govornik nije prepoznat",
-   "vrsta": "povreda Poslovnika",
+   "govornik": "Predsedavajući Stojan Radenović",
+   "vrsta": "pomen člana",
    "clanovi": [
-    88,
-    107
+    88
    ],
    "kontekst": "Konstatujem da je primjenom elektronskog sistema za glasanje utvrđeno da je u sali prisutno 128 narodnih poslovnika, odnosno da je prisutna većina od ukrugnog broja narodnih poslovnika i da postoje uslovi za rad Narodne skupštine u smislu č",
    "odluka": "",
@@ -21,17 +20,28 @@
    "id": "p2385"
   },
   {
-   "t": 543.78,
+   "t": 371.2,
    "tip": "clan",
    "govornik": "govornik nije prepoznat",
    "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Mislim da je dužnost da danas odamo počast heroju koji je juče dao svoj život za našu zemlju. Mislim da je red da se današnja sednica započne sa minutom tišine njemu čast. I svima koji se toga nisu setili, a vama poštovani predsedavajući na",
+   "odluka": "",
+   "napomena": "",
+   "id": "p3712"
+  },
+  {
+   "t": 552.06,
+   "tip": "clan",
+   "govornik": "Predsedavajući Stojan Radenović",
+   "vrsta": "pomen člana",
    "clanovi": [
     103
    ],
-   "kontekst": "Milenko Jovan je u povrede poslovnika.",
+   "kontekst": "Član 103 koji govori o zloupotrebi povrede poslovnika, što smo imali sad prilike da vidimo.",
    "odluka": "",
    "napomena": "",
-   "id": "p5437"
+   "id": "p5520"
   },
   {
    "t": 1006.16,
@@ -75,7 +85,7 @@
   {
    "t": 1309.92,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -88,7 +98,7 @@
   {
    "t": 1385.84,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -179,7 +189,7 @@
   {
    "t": 1754.34,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -385,7 +395,7 @@
    "id": "a32134"
   },
   {
-   "t": 3527.94,
+   "t": 3554.52,
    "tip": "clan",
    "govornik": "govornik nije prepoznat",
    "vrsta": "povreda Poslovnika",
@@ -393,10 +403,10 @@
     100,
     103
    ],
-   "kontekst": "Evo tu ima dosta profesora sa filozofskog fakulteta, pa vi tamo učite to studente. Pa taj dialog, razgovor, to je osnovno. I sad u ovom trenutku bi ja zaustavio sve ove kolege, poslanike koji hoće da reklamiraju povredu poslovnika, nego bi ",
+   "kontekst": "Dobro, mislim, moram da im dam, ali znate zašto?",
    "odluka": "",
    "napomena": "",
-   "id": "p35279"
+   "id": "p35545"
   },
   {
    "t": 3656.22,
@@ -428,7 +438,7 @@
   {
    "t": 3849.52,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -441,7 +451,7 @@
   {
    "t": 3857.34,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -487,6 +497,19 @@
    "pouzdanost": "srednja",
    "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku na uvredljiv način.",
    "id": "a39900"
+  },
+  {
+   "t": 4059.38,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Hvala vam poslovniče Vučiću.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće neposredno obraćanje predsedavajućem na uvredljiv način, korišćenjem pogrdnog naziva.",
+   "id": "a40593"
   },
   {
    "t": 4071.26,
@@ -563,19 +586,6 @@
    "pouzdanost": "visoka",
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'primitivni' i 'najgorih'.",
    "id": "a62568"
-  },
-  {
-   "t": 6426.98,
-   "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
-   "clanovi": [
-    106
-   ],
-   "kategorija": "moguće van teme",
-   "citat": "Da vam kažem, gospodine Radenoviću, ja vas molim samo da zatražite od njih tokom pauze i da pitate, zvanično možete da prenesete i moje reči kao šefa poslaničke grupe, nadam se da će stručnjaci sa RTS-a da odgovore šta im je to danas bilo važnije od najvažnije konstitutivne sednice, jer su juče oborili sve rekorde, imali su ukupan šer oko 20%,",
-   "pouzdanost": "visoka",
-   "obrazlozenje": "Moguća povreda jer se duži deo govora odnosi na gledanost RTS-a, a ne na tačku dnevnog reda.",
-   "id": "a64269"
   }
  ]
 }
