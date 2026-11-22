@@ -1,0 +1,80 @@
+{
+ "verzija": 1,
+ "videoId": "OwcVd-FRsK0",
+ "naslov": "Prva sednica 15. saziva, 17. 11. 2026. (deo III, proba)",
+ "rezim": "snimak",
+ "generisano": "2026-11-22T12:50:00+0100",
+ "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
+ "dogadjaji": [
+  {
+   "id": "p3",
+   "t": 10,
+   "tip": "clan",
+   "govornik": "Miroslav Andrić",
+   "clanovi": [],
+   "clanovi_tekst": "—",
+   "vrsta": "povreda Poslovnika (prijava)",
+   "kontekst": "Predsedavajući: „Sledeći koji je prijavio povredu poslovnika je poslanik Miroslav Andrić.“",
+   "odluka": "Andrić nije dobio/iskoristio reč u transkriptu; predsedavajući nastavlja duže obraćanje (5:50:44).",
+   "napomena": "Proveriti u stenogramu."
+  },
+  {
+   "id": "p4",
+   "t": 484,
+   "tip": "clan",
+   "govornik": "Željko Hubač",
+   "clanovi": [
+    107,
+    103
+   ],
+   "clanovi_tekst": "čl. 107 st. 2; čl. 103",
+   "vrsta": "povreda Poslovnika",
+   "kontekst": "„Na sednici nije dozvoljeno neposredno obraćanje… korišćenje uvredljivih izraza“ – povodom jutarnjeg incidenta; traži da se predsedavajući izjasni po čl. 103.",
+   "odluka": "Predsedavajući (6:00:30, 6:04:17) ne izjašnjava se, pita da li traži glasanje; u 6:07 „izjasniće se skupština po proceduri“.",
+   "napomena": "Hubač ponavlja zahtev u 6:02:58, 6:04:30 i 6:07:09."
+  },
+  {
+   "id": "p5",
+   "t": 1156,
+   "tip": "clan",
+   "govornik": "Milenko Jovanov",
+   "clanovi": [
+    3,
+    27
+   ],
+   "clanovi_tekst": "čl. 3; čl. 27",
+   "vrsta": "povreda Poslovnika",
+   "kontekst": "Ko predsedava konstitutivnom sednicom; „kreativno tumačenje poslovnika“ – traži da se predsedavajući izjasni o ranijim povredama.",
+   "odluka": "Predsedavajući (6:11:51) pita da li traži da se skupština izjasni – ne traži.",
+   "napomena": ""
+  },
+  {
+   "id": "p6",
+   "t": 1334,
+   "tip": "clan",
+   "govornik": "Petar Mitov",
+   "clanovi": [
+    109
+   ],
+   "clanovi_tekst": "čl. 109 st. 1 tač. 3 (izgovoreno „109.3“)",
+   "vrsta": "povreda Poslovnika",
+   "kontekst": "„Niste upozorili predlagača da govori o tački dnevnog reda… tražim da se glasa o povredi poslovnika.“",
+   "odluka": "Bez izjašnjenja; reč dobija Vučić (6:14:21).",
+   "napomena": "Traži glasanje."
+  },
+  {
+   "id": "p7",
+   "t": 3011,
+   "tip": "clan",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    107
+   ],
+   "clanovi_tekst": "čl. 107",
+   "vrsta": "povreda Poslovnika",
+   "kontekst": "„Povreda člana 107, dostojanstvo Narodne skupštine“ – predsedavajući nije reagovao na reči Jugoslava Gašića o domu kao „autobuskoj stanici ili pijaci“.",
+   "odluka": "Predsedavajući (6:44:03) pita da li traži da se skupština izjasni – ne traži.",
+   "napomena": ""
+  }
+ ]
+}
