@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Poslovnik uz prenos: metod</title>
+<style>
+  body { max-width: 720px; margin: 40px auto; padding: 0 16px; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; color: #1b1f24; background: #fff; }
+  @media (prefers-color-scheme: dark) { body { color: #e8eaed; background: #17191d; } a { color: #82acf6; } }
+  h1 { font-size: 26px; } h2 { font-size: 19px; margin-top: 28px; }
+  .okvir { border-left: 4px solid #a86a0a; padding: 4px 14px; background: rgba(168,106,10,.08); }
+</style>
+</head>
+<body>
+<h1>Kako nastaju podaci: „Poslovnik uz prenos“</h1>
+<p>Poslednja izmena: 22. 11. 2026.</p>
+
+<h2>1. Transkript</h2>
+<p>Zvuk zvaničnog snimka sednice (YouTube kanal Narodne skupštine) automatski se pretvara u tekst modelom Whisper large-v3, na srpskom, sa vremenom za svaki deo govora. <strong>To nije zvanična stenografska beleška.</strong> Model ponekad greši u imenima i rečima (na primer, „poslanik“ zapiše kao „poslovnik“), a vreme je tačno do desetak sekundi.</p>
+
+<h2>2. Pomenuti članovi (bez veštačke inteligencije)</h2>
+<p>Pravila u programu traže izraze kao što su „povreda Poslovnika“, „reklamiram“ i „ukazujem na povredu“, kao i „član“ sa brojem, napisanim ciframa ili rečima („sto sedam“). Dve vrste oznaka:</p>
+<ul>
+  <li><strong>Ukazivanje na povredu Poslovnika</strong>: poslanik ukazuje na povredu i navodi član.</li>
+  <li><strong>Pomen člana</strong>: član se pominje, najčešće dok predsedavajući vodi sednicu.</li>
+</ul>
+<p>Za svaki takav trenutak proširenje prikazuje ceo tekst člana iz prečišćenog teksta Poslovnika („Službeni glasnik RS“, broj 20/2012) sa sajta Narodne skupštine. Oznake ručno pregleda autor pre objave.</p>
+
+<h2>3. Moguće povrede (eksperimentalno, AI)</h2>
+<div class="okvir">
+<p>Ovaj deo je podrazumevano isključen i uključuje se u panelu.</p>
+</div>
+<p>Delovi transkripta od oko jednog minuta šalju se modelu Gemini (Google), zajedno sa tekstom članova 106, 107 i 109 i tačkom dnevnog reda. Model traži samo dve stvari:</p>
+<ul>
+  <li><strong>čl. 107</strong>: uvredljivi izrazi i narušavanje dostojanstva Narodne skupštine,</li>
+  <li><strong>čl. 106</strong>: duži deo govora koji nije o tački dnevnog reda.</li>
+</ul>
+<p>Pravila koja važe uvek:</p>
+<ul>
+  <li>Oznaka uvek glasi <strong>„moguća povreda“</strong>. Da li je povreda zaista učinjena, odlučuje predsedavajući, odnosno Narodna skupština, a ne ovo proširenje.</li>
+  <li>Uz svaku oznaku stoji <strong>doslovan citat</strong> iz transkripta i link na taj trenutak snimka. Oznaka čiji se citat ne nalazi doslovno u transkriptu odbacuje se automatski.</li>
+  <li><strong>Ista pravila za sve</strong> govornike, bez obzira na stranku. Oštra politička kritika i ironija bez uvredljivog izraza ne označavaju se. Ne označava se ni kada govornik citira ili prepričava tuđe reči.</li>
+  <li><strong>Bez zbirnih rangiranja.</strong> Ne objavljujemo liste „ko je najviše puta prekršio Poslovnik“, jer automatska procena za to nije dovoljno pouzdana.</li>
+</ul>
+<p>Model greši: označi nešto što nije povreda, a propusti nešto što jeste. Zato se oznake prikazuju samo kao pomoć gledaocu da sam proveri snimak.</p>
+
+<h2>4. Ispravke</h2>
+<p>Ako primetiš grešku (pogrešan član, ime ili vreme), javi na: <a href="https://github.com/poslovnik-uz-prenos/poslovnik-uz-prenos-podaci/issues">github.com/poslovnik-uz-prenos/poslovnik-uz-prenos-podaci/issues</a> (potreban je GitHub nalog). Kada Narodna skupština objavi stenografske beleške, podaci se upoređuju sa njima i ispravljaju.</p>
+</body>
+</html>
