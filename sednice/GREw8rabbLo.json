@@ -3,13 +3,13 @@
  "videoId": "GREw8rabbLo",
  "naslov": "Prva sednica 15. saziva, drugi dan (deo 2)",
  "rezim": "snimak",
- "generisano": "2026-11-22T13:50:02+0000",
+ "generisano": "2026-11-22T18:30:44+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
    "t": 484.9,
    "tip": "clan",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Ana Brnabić (procena)",
    "vrsta": "pomen člana",
    "clanovi": [
     106
@@ -22,7 +22,7 @@
   {
    "t": 837.42,
    "tip": "moguca",
-   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -35,7 +35,7 @@
   {
    "t": 848.82,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -48,7 +48,7 @@
   {
    "t": 2428.26,
    "tip": "moguca",
-   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -61,7 +61,7 @@
   {
    "t": 2517.24,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -74,7 +74,7 @@
   {
    "t": 2567.02,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -87,7 +87,7 @@
   {
    "t": 2886.08,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -100,7 +100,7 @@
   {
    "t": 2981.94,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -113,7 +113,7 @@
   {
    "t": 3141.42,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -126,7 +126,7 @@
   {
    "t": 3160.46,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -139,7 +139,7 @@
   {
    "t": 3273.56,
    "tip": "clan",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Ana Brnabić (procena)",
    "vrsta": "povreda Poslovnika",
    "clanovi": [
     6,
@@ -151,20 +151,20 @@
    "id": "p32735"
   },
   {
-   "t": 3443.66,
+   "t": 3454.4,
    "tip": "clan",
-   "govornik": "Usame Zuhorović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "vrsta": "povreda Poslovnika",
    "clanovi": [],
-   "kontekst": "Ne, ne, ne.",
+   "kontekst": "Samo tri rečenice. Ja sam naravno govorio istinu malo pre.",
    "odluka": "",
    "napomena": "",
-   "id": "p34436"
+   "id": "p34544"
   },
   {
    "t": 3897.53,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -177,7 +177,7 @@
   {
    "t": 4235.12,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -190,7 +190,7 @@
   {
    "t": 4265.84,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -203,7 +203,7 @@
   {
    "t": 4274.06,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -216,7 +216,7 @@
   {
    "t": 4284.52,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -229,7 +229,7 @@
   {
    "t": 4302.48,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -242,7 +242,7 @@
   {
    "t": 4318.3,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -255,7 +255,7 @@
   {
    "t": 4339.14,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -268,7 +268,7 @@
   {
    "t": 4393.86,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -281,7 +281,7 @@
   {
    "t": 4402.2,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -294,7 +294,7 @@
   {
    "t": 4407.48,
    "tip": "moguca",
-   "govornik": "Biljana Pantić-Pilja (procena)",
+   "govornik": "Biljana Pantić Pilja (procena)",
    "clanovi": [
     107
    ],
@@ -307,7 +307,7 @@
   {
    "t": 5244.86,
    "tip": "moguca",
-   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -320,7 +320,7 @@
   {
    "t": 5330.62,
    "tip": "moguca",
-   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -333,7 +333,7 @@
   {
    "t": 5491.4,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     106
    ],
@@ -344,17 +344,17 @@
    "id": "a54914"
   },
   {
-   "t": 5905.26,
+   "t": 5907.08,
    "tip": "clan",
    "govornik": "Vladimir Đukanović (procena)",
    "vrsta": "povreda Poslovnika",
    "clanovi": [
     107
    ],
-   "kontekst": "Pa on...",
+   "kontekst": "I onda ćemo...",
    "odluka": "",
    "napomena": "",
-   "id": "p59052"
+   "id": "p59070"
   },
   {
    "t": 5936.2,
@@ -411,7 +411,7 @@
   {
    "t": 7180.22,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     106
    ],
@@ -424,7 +424,7 @@
   {
    "t": 7290.58,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -437,7 +437,7 @@
   {
    "t": 7290.58,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -450,7 +450,7 @@
   {
    "t": 7324.92,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -463,7 +463,7 @@
   {
    "t": 7332.18,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     106
    ],
@@ -476,7 +476,7 @@
   {
    "t": 7351.7,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -489,7 +489,7 @@
   {
    "t": 7393.62,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
@@ -502,7 +502,7 @@
   {
    "t": 7417.88,
    "tip": "moguca",
-   "govornik": "Predstavnik predlagača (procena)",
+   "govornik": "Aleksandar Vučić (procena)",
    "clanovi": [
     107
    ],
