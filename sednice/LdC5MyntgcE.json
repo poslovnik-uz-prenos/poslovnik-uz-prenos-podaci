@@ -3,7 +3,7 @@
  "videoId": "LdC5MyntgcE",
  "naslov": "Prva sednica 15. saziva, drugi dan (deo 4)",
  "rezim": "snimak",
- "generisano": "2026-11-22T13:28:05+0000",
+ "generisano": "2026-11-22T13:50:02+0000",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -100,7 +100,7 @@
   {
    "t": 1058.34,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -113,7 +113,7 @@
   {
    "t": 1402.36,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -122,17 +122,6 @@
    "pouzdanost": "srednja",
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'ljudske bede'.",
    "id": "a14023"
-  },
-  {
-   "t": 1407.98,
-   "tip": "clan",
-   "govornik": "govornik nije prepoznat",
-   "vrsta": "povreda Poslovnika",
-   "clanovi": [],
-   "kontekst": "pošto ste 50 puta se pozivali na povredu poslovnika",
-   "odluka": "",
-   "napomena": "",
-   "id": "p14079"
   },
   {
    "t": 1558.26,
@@ -540,7 +529,7 @@
   {
    "t": 3052.74,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -553,7 +542,7 @@
   {
    "t": 3058.88,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -566,7 +555,7 @@
   {
    "t": 3085.16,
    "tip": "moguca",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
    "clanovi": [
     107
    ],
@@ -575,17 +564,6 @@
    "pouzdanost": "srednja",
    "obrazlozenje": "Moguća povreda dostojanstva neposrednim obraćanjem poslanicima i optuživanjem za širenje nacističkih teorija.",
    "id": "a30851"
-  },
-  {
-   "t": 3213.46,
-   "tip": "clan",
-   "govornik": "govornik nije prepoznat",
-   "vrsta": "povreda Poslovnika",
-   "clanovi": [],
-   "kontekst": "sve biti povreda poslovnika",
-   "odluka": "",
-   "napomena": "",
-   "id": "p32134"
   }
  ]
 }
