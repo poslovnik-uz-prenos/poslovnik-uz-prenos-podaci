@@ -1,0 +1,76 @@
+{
+ "verzija": 1,
+ "videoId": "ObIALFlXJpE",
+ "naslov": "Prva sednica 15. saziva, treći dan (deo 6)",
+ "rezim": "snimak",
+ "generisano": "2026-11-23T18:27:03+0100",
+ "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
+ "dogadjaji": [
+  {
+   "t": 357.64,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    16,
+    17
+   ],
+   "kontekst": "Skupštine, dozvolite mi da saglasno članom 16. stav 5 poslovnika utvrdim listu kandidata za podpredsednika Narodne skupštine i to po azbučnom redu prezimena. Prema podnetom predlogu utvrđujem sledeću listu kandidata za pot predsednike Narodne skupštine.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p3576"
+  },
+  {
+   "t": 487.7,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    131
+   ],
+   "kontekst": "Pre prelaska na glasanje prozivkom, podsjećam vas da je članov 131 poslovnika utvrđen postupak sprovođenja javnog glasanja prozivkom i da shodno toj odredbi generalni sekretar, odnosno zameni generalnog sekretara, proziva narodne poslovnika po zvučnom redu prezimena.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p4877"
+  },
+  {
+   "t": 1072.74,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ubili ste 35 godina staru demokratiju u ovoj Narodnoj skupštini, ponizili 2 miliona građana Republike Srbije",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva Narodne skupštine upotrebom uvredljivih izraza.",
+   "id": "a10727"
+  },
+  {
+   "t": 5833.8,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    96
+   ],
+   "kontekst": "Molim poslaničke grupe, ukoliko to već nisu učinile, da odmah podnesu prijeve za reč sa redoslovnom narodnih poslanika, član 96 stav 4 poslovnika i otvaram pretres o predlogu kandidata za imenovanje generalnog sekretara Narodne skupštine.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p58338"
+  },
+  {
+   "t": 6099.62,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    21
+   ],
+   "kontekst": "Pre prelaska na glasanje, posjećam vas da je prema članu 21 stav 3 poslovnika generalni sekretar Narodne skupštine imenovan, ako je za predlog glasala većina od ukupnog broja narodnih poslanika. Stavljam na glasan predlog da se za generalnog sekretara Narodne skupštine imenuje Mirjana Radoković.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p60996"
+  }
+ ]
+}
