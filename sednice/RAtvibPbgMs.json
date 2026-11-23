@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:21:41+0100",
+ "generisano": "2026-11-23T10:22:49+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -663,6 +663,34 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza.",
    "wall": 1795430760360,
    "id": "a68121"
+  },
+  {
+   "t": 6880.8,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A vi što baštinite rasističke teorije, nemojte da se kliberite, nego se uozbiljite.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem.",
+   "wall": 1795430829020,
+   "id": "a68808"
+  },
+  {
+   "t": 6951.52,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Je li njega plaćate vi, kavači, škaljari, ili ga plaća Hrvatska obaveštajna agencija?",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku na uvredljiv način, povezujući ga sa kriminalnim grupama i stranom obaveštajnom agencijom.",
+   "wall": 1795430899740,
+   "id": "a69515"
   }
  ]
 }
