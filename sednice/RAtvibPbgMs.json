@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:13:45+0100",
+ "generisano": "2026-11-23T10:14:53+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -411,6 +411,34 @@
    "obrazlozenje": "Moguća povreda dostojanstva iznošenjem činjenica koje se odnose na privatni život drugog lica.",
    "wall": 1795428716800,
    "id": "a47685_1"
+  },
+  {
+   "t": 4988.94,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ti vođi navijača su zapravo trgovci drogom, razbojnici.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba uvredljivih izraza.",
+   "wall": 1795428937160,
+   "id": "a49889"
+  },
+  {
+   "t": 5161.82,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "to je, to je bivši režim organizovanog kriminala.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom izraza 'režim organizovanog kriminala'.",
+   "wall": 1795429110040,
+   "id": "a51618"
   }
  ]
 }
