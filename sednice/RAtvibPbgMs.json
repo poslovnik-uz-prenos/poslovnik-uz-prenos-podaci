@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:45:24+0100",
+ "generisano": "2026-11-23T11:46:27+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -425,6 +425,20 @@
    "obrazlozenje": "Moguća povreda jer se govori o knjizi, a ne o tački dnevnog reda.",
    "wall": 1795433406050,
    "id": "a54900"
+  },
+  {
+   "t": 5610.0,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "da se ne bi valjali u brlogu sa ovim ljudima.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza 'valjati se u brlogu'.",
+   "wall": 1795433526050,
+   "id": "a56100"
   }
  ]
 }
