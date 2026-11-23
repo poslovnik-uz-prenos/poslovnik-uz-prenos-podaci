@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:18:20+0100",
+ "generisano": "2026-11-23T10:19:30+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -579,6 +579,34 @@
    "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'kriminalac'.",
    "wall": 1795429948220,
    "id": "a60000"
+  },
+  {
+   "t": 6122.54,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Samo da čujete kakve gluposti i kakve vi neistine izgovarate.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'gluposti' i 'neistine' u direktnom obraćanju.",
+   "wall": 1795430070760,
+   "id": "a61225"
+  },
+  {
+   "t": 6258.44,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Molim te i to mi samo da pokažemo narodu, da vide građani samo kakav je lažov i ovo bakić.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'lažov' i neposrednim obraćanjem drugom poslaniku.",
+   "wall": 1795430206660,
+   "id": "a62584"
   }
  ]
 }
