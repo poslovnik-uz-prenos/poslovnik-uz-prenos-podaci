@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T09:58:16+0100",
+ "generisano": "2026-11-23T09:59:24+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -61,6 +61,48 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivog izraza 'lopova'.",
    "wall": 1795424924940,
    "id": "a9767"
+  },
+  {
+   "t": 1332.42,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A onda kada vam je novinar postavio stvarno pitanje za vaših sedam stanova i druge nekretnine kojima raspolažete",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće iznošenje činjenica koje se odnose na privatni život drugog lica.",
+   "wall": 1795425280640,
+   "id": "a13324"
+  },
+  {
+   "t": 1385.2,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Da, vi, gospodine Čupiću, ste bogataš, multimilioner. Sve je lažno u vašoj biografiji.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku uz iznošenje činjenica koje se odnose na privatni život i korišćenje uvredljivih izraza.",
+   "wall": 1795425333420,
+   "id": "a13852"
+  },
+  {
+   "t": 1404.4,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A vi, vlasnik, samo u jednoj zgradi sedam stanova.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku uz iznošenje činjenica koje se odnose na privatni život.",
+   "wall": 1795425352620,
+   "id": "a14044"
   }
  ]
 }
