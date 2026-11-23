@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:54:00+0100",
+ "generisano": "2026-11-23T11:55:04+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -523,6 +523,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'lagali ste'.",
    "wall": 1795434447390,
    "id": "a65313"
+  },
+  {
+   "t": 6630.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A ja veliki vođa korumpiranog režima. Svi se navatali para i klepali para koliko hoćete.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i optužbi za korupciju.",
+   "wall": 1795434546050,
+   "id": "a66300"
   }
  ]
 }
