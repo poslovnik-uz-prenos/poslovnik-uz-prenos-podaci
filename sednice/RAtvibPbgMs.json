@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:03:53+0100",
+ "generisano": "2026-11-23T10:04:59+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -187,6 +187,34 @@
    "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom izraza 'jada' i neposrednim obraćanjem drugom poslaniku.",
    "wall": 1795426486120,
    "id": "a25379"
+  },
+  {
+   "t": 2864.8,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Uspeli ste da prevarite ljude.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'prevariti ljude' u direktnom obraćanju.",
+   "wall": 1795426813020,
+   "id": "a28648"
+  },
+  {
+   "t": 2871.72,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Zašto vam je potrebno da se iživljavate na deci naših članova?",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'iživljavate' i pominjanjem privatnog života.",
+   "wall": 1795426819940,
+   "id": "a28717"
   }
  ]
 }
