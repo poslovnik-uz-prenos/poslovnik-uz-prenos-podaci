@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:14:53+0100",
+ "generisano": "2026-11-23T10:16:00+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -439,6 +439,48 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom izraza 'režim organizovanog kriminala'.",
    "wall": 1795429110040,
    "id": "a51618"
+  },
+  {
+   "t": 5261.62,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Pazite, 300.000 evra je sitnica u odnosu na milijarde evra koje su vaši ljudi pokrali.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom poslaniku na uvredljiv način.",
+   "wall": 1795429209840,
+   "id": "a52616"
+  },
+  {
+   "t": 5400.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Samo preziru, samo preziru drugih ljudi. I sada očekujete da ste kao pod sumnjom zaorganizovani kriminal dostojni politički protivnici. Žao mi je niste.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem drugom poslaniku.",
+   "wall": 1795429348220,
+   "id": "a54000"
+  },
+  {
+   "t": 5430.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "doživljavamo vas kao istureno političko krilo organizovanog kriminala.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva Narodne skupštine neposrednim obraćanjem poslanicima i optuživanjem za povezanost sa organizovanim kriminalom.",
+   "wall": 1795429378220,
+   "id": "a54300"
   }
  ]
 }
