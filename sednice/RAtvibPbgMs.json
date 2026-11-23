@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T09:29:31+0100",
+ "generisano": "2026-11-23T09:30:38+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -19,6 +19,30 @@
    "napomena": "",
    "wall": 1795422576484,
    "id": "p199"
+  },
+  {
+   "t": 110.04,
+   "tip": "clan",
+   "govornik": "govornik nije prepoznat",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Da li ostajete pri tome?",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795422666604,
+   "id": "p1100"
+  },
+  {
+   "t": 206.52,
+   "tip": "clan",
+   "govornik": "Uglješi Mrdić (procena)",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Zahvaljujem predsjedavajući.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795422763084,
+   "id": "p2065"
   }
  ]
 }
