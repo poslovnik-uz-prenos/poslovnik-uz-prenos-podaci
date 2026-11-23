@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:09:28+0100",
+ "generisano": "2026-11-23T10:10:33+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -299,6 +299,34 @@
    "napomena": "",
    "wall": 1795427773100,
    "id": "p38248"
+  },
+  {
+   "t": 4033.26,
+   "tip": "moguca",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Pa pazite, ja sam video jutrost na Instagramima, tim raznim, to moje čerke i žene gledaju, ja se",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda jer se govori o ličnim aktivnostima na društvenim mrežama, što deluje van teme.",
+   "wall": 1795427981480,
+   "id": "a40332"
+  },
+  {
+   "t": 4134.02,
+   "tip": "moguca",
+   "govornik": "Milenko Jovanov",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Mi smo u ova tri dana videli to pravo nakaznje.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'nakaznje'.",
+   "wall": 1795428082240,
+   "id": "a41340"
   }
  ]
 }
