@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:43:14+0100",
+ "generisano": "2026-11-23T11:44:19+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -369,6 +369,20 @@
    "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom izraza 'režim organizovanog kriminala'.",
    "wall": 1795433077870,
    "id": "a51618"
+  },
+  {
+   "t": 5261.62,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "300.000 evra je sitnica u odnosu na milijarde evra koje su vaši ljudi pokrali.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom narodnom poslaniku.",
+   "wall": 1795433177670,
+   "id": "a52616"
   }
  ]
 }
