@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:44:19+0100",
+ "generisano": "2026-11-23T11:45:24+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -383,6 +383,48 @@
    "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom narodnom poslaniku.",
    "wall": 1795433177670,
    "id": "a52616"
+  },
+  {
+   "t": 5360.44,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Nije vaspita. Nedostaje kućno vaspitanje. Nedostaje. Ne krivim vas.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva zbog iznošenja ocena o vaspitanju drugog lica.",
+   "wall": 1795433276490,
+   "id": "a53604"
+  },
+  {
+   "t": 5430.0,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "doživljavamo vas kao istureno političko krilo organizovanog kriminala.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795433346050,
+   "id": "a54300"
+  },
+  {
+   "t": 5490.0,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "ta knjiga kako sam pobedio obojenu revoluciju. Bila je obećana u proleće 2025. da će se pojaviti do Vidovdana 2025.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda jer se govori o knjizi, a ne o tački dnevnog reda.",
+   "wall": 1795433406050,
+   "id": "a54900"
   }
  ]
 }
