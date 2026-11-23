@@ -3,7 +3,7 @@
  "videoId": "0FHVQxK7g_Y",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:58:52+0100",
+ "generisano": "2026-11-23T12:59:56+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -19,6 +19,21 @@
    "napomena": "",
    "wall": 1795435090856,
    "id": "p1050"
+  },
+  {
+   "t": 270.0,
+   "tip": "clan",
+   "govornik": "Predsedavajući Nada Macura",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    9,
+    10
+   ],
+   "kontekst": "da je Narodna skupština obavila pretres i pošto je saglasno članu 9. stav 5 poslovnika utvrđena lista kandidata za predsednika Narodne skupštine, podsjećam vas da prema članu 10. stav 1 poslovnika,",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795435255836,
+   "id": "p2700"
   }
  ]
 }
