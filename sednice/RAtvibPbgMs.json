@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:04:14+0100",
+ "generisano": "2026-11-23T12:05:23+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -663,6 +663,20 @@
    "obrazlozenje": "Moguća povreda jer se govori o smeštaju poslanika, što nije tema sednice.",
    "wall": 1795435559730,
    "id": "a76436"
+  },
+  {
+   "t": 7797.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kad su vaši kriminalci upali u televiziju, informer,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom izraza 'kriminalci'.",
+   "wall": 1795435713050,
+   "id": "a77970"
   }
  ]
 }
