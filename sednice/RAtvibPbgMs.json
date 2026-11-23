@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:04:59+0100",
+ "generisano": "2026-11-23T10:06:06+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -215,6 +215,34 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'iživljavate' i pominjanjem privatnog života.",
    "wall": 1795426819940,
    "id": "a28717"
+  },
+  {
+   "t": 2970.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kako se osjeća vaš kandidat za predsednika skupštine kada vidi da njegov kolega poslanik i smeva poglavara Srpske pravoslavne crkve",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva Narodne skupštine neposrednim obraćanjem drugom narodnom poslaniku.",
+   "wall": 1795426918220,
+   "id": "a29700"
+  },
+  {
+   "t": 3030.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Aleksandar Vučić vas 33 godine uči kako se vodi država i kako se čovek ponaša i kada je u poziciji, kada je na vlasti.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda jer se govori o političkoj karijeri Aleksandra Vučića, a ne o tački dnevnog reda.",
+   "wall": 1795426978220,
+   "id": "a30300"
   }
  ]
 }
