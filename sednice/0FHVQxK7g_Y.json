@@ -3,7 +3,7 @@
  "videoId": "0FHVQxK7g_Y",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T13:01:08+0100",
+ "generisano": "2026-11-23T13:02:16+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -48,6 +48,20 @@
    "napomena": "",
    "wall": 1795435421536,
    "id": "p4357"
+  },
+  {
+   "t": 575.92,
+   "tip": "clan",
+   "govornik": "Predsedavajući Nada Macura",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    131
+   ],
+   "kontekst": "Član 131, stav 4 poslovnika. Molim narodne poslanike da prilikom glasanja ustanu i da se izjasne.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795435561756,
+   "id": "p5759"
   }
  ]
 }
