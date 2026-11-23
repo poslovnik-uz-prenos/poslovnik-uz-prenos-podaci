@@ -3,7 +3,7 @@
  "videoId": "0FHVQxK7g_Y",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:59:56+0100",
+ "generisano": "2026-11-23T13:01:08+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -34,6 +34,20 @@
    "napomena": "",
    "wall": 1795435255836,
    "id": "p2700"
+  },
+  {
+   "t": 435.7,
+   "tip": "clan",
+   "govornik": "Predsedavajući Nada Macura",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    10
+   ],
+   "kontekst": "glasanje treba da obavimo prozivkom narodnih poslanika član 10 stav 2 poslovnika. Pre prelaska na glasanje prozivkom, podsjećam vas da je članom 131. poslovnika uređen postupak sprovođenja javnog glasanja prozivkom",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795435421536,
+   "id": "p4357"
   }
  ]
 }
