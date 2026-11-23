@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:26:13+0100",
+ "generisano": "2026-11-23T10:27:19+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -775,6 +775,104 @@
    "obrazlozenje": "Moguća upotreba uvredljivih izraza ('kriminalci').",
    "wall": 1795431745220,
    "id": "a77970"
+  },
+  {
+   "t": 7890.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ovaj tajkun, on samo poreza ovde nije platio 30 puta veće vrednosti od Čupićeva u solitera.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom reči 'tajkun' u pogrdnom kontekstu i iznošenjem navodnih činjenica o neplaćenom porezu.",
+   "wall": 1795431838220,
+   "id": "a78900"
+  },
+  {
+   "t": 7890.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Sve isposnici i multimilioneri. ili što bi gospodin Stanić rekao milionđije. Jel tako? Milionđije.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom reči 'miliondžije' u pogrdnom kontekstu.",
+   "wall": 1795431838220,
+   "id": "a78900_1"
+  },
+  {
+   "t": 7920.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Tako da ćemo da imamo tajkunsku skupštinu, tako da ćemo da imamo tajkunsku vladu, prava levičarska.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom reči 'tajkunska' u pogrdnom kontekstu za skupštinu i vladu.",
+   "wall": 1795431868220,
+   "id": "a79200"
+  },
+  {
+   "t": 8053.56,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Deo podrške tajkunsko-parazitskoj listi.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća upotreba uvredljivog izraza 'parazitskoj'.",
+   "wall": 1795432001780,
+   "id": "a80535"
+  },
+  {
+   "t": 8056.28,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Je li vam nije dobro, pa gledate na sat ili šta? Nije vam dobro nešto?",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795432004500,
+   "id": "a80562"
+  },
+  {
+   "t": 8096.14,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ti si videobalen to",
+   "pouzdanost": "niska",
+   "obrazlozenje": "Moguća upotreba uvredljivog izraza.",
+   "wall": 1795432044360,
+   "id": "a80961"
+  },
+  {
+   "t": 8132.26,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "I ove mučeni dale, ne zna gde je levo, ne zna gde je desno, da nabavaju neke pare za grad, ništa",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnog izraza 'mučeni dale'.",
+   "wall": 1795432080480,
+   "id": "a81322"
   }
  ]
 }
