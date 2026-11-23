@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:56:10+0100",
+ "generisano": "2026-11-23T11:57:16+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -551,6 +551,34 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'Mangupi' i 'kukavice'.",
    "wall": 1795434666050,
    "id": "a67500"
+  },
+  {
+   "t": 6812.14,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "U to vreme zlog Aleksandra Vučića",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza.",
+   "wall": 1795434728190,
+   "id": "a68121"
+  },
+  {
+   "t": 6880.8,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A vi što baštinite rasističke teorije, nemojte da se kliberite, nego se uozbiljite.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem.",
+   "wall": 1795434796850,
+   "id": "a68808"
   }
  ]
 }
