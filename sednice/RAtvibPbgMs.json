@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:10:50+0100",
+ "generisano": "2026-11-23T11:11:53+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -61,6 +61,48 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i optužbi.",
    "wall": 1795428463010,
    "id": "a5469"
+  },
+  {
+   "t": 1385.2,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Da, vi, gospodine Čupiću, ste bogataš, multimilioner. Sve je lažno u vašoj biografiji.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku uz iznošenje činjenica koje se odnose na privatni život.",
+   "wall": 1795429301250,
+   "id": "a13852"
+  },
+  {
+   "t": 1404.4,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A vi, vlasnik, samo u jednoj zgradi sedam stanova.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku uz iznošenje činjenica koje se odnose na privatni život.",
+   "wall": 1795429320450,
+   "id": "a14044"
+  },
+  {
+   "t": 1436.98,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A ja mnogo korumpiran, a vi mnogo pošteni. Odakle vam zgrade, gospodin Čupić?",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način i iznošenje činjenica koje se odnose na privatni život.",
+   "wall": 1795429353030,
+   "id": "a14369"
   }
  ]
 }
