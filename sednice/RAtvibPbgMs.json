@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:22:42+0100",
+ "generisano": "2026-11-23T11:23:51+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -215,6 +215,20 @@
    "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom izraza 'jada' i neposrednim obraćanjem drugom poslaniku.",
    "wall": 1795430453950,
    "id": "a25379"
+  },
+  {
+   "t": 2923.86,
+   "tip": "moguca",
+   "govornik": "Miroslav Petrašinović",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Da li zna kako se osjećaju deca tih ljudi čiji su roditelji ostali bez posla, zato što investitori sad odlaze jer se ne osjećaju sigurno zbog situacije koja je nastala u državi pobedom vaše liste.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda jer se govori o osećanjima dece i odlasku investitora, što deluje van teme.",
+   "wall": 1795430839910,
+   "id": "a29238"
   }
  ]
 }
