@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:48:33+0100",
+ "generisano": "2026-11-23T11:49:35+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -467,6 +467,20 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'lošeg glumatanja' i 'loših profesora na FDU' u kontekstu obraćanja.",
    "wall": 1795433724930,
    "id": "a58088"
+  },
+  {
+   "t": 5993.54,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Samo da vidite o kakvim kriminalcima je reč. Samo da vidite o kakvim je kriminalcima reč.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'kriminalcima'.",
+   "wall": 1795433909590,
+   "id": "a59935"
   }
  ]
 }
