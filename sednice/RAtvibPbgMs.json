@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T09:56:06+0100",
+ "generisano": "2026-11-23T09:57:12+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -47,6 +47,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'Ustašku Bitangu'.",
    "wall": 1795424674320,
    "id": "a7261"
+  },
+  {
+   "t": 976.72,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Mi smo čudna ekipa lopova.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivog izraza 'lopova'.",
+   "wall": 1795424924940,
+   "id": "a9767"
   }
  ]
 }
