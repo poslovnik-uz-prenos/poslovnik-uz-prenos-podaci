@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:35:45+0100",
+ "generisano": "2026-11-23T11:36:51+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -285,6 +285,20 @@
    "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'nakaznje'.",
    "wall": 1795432050070,
    "id": "a41340"
+  },
+  {
+   "t": 4440.0,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Prethodna dva, tri dana imali smo primer verbalne diareje u Narodnoj skupštini.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795432356050,
+   "id": "a44400"
   }
  ]
 }
