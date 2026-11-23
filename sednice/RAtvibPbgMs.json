@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:16:00+0100",
+ "generisano": "2026-11-23T10:17:13+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -481,6 +481,48 @@
    "obrazlozenje": "Moguća uvreda dostojanstva Narodne skupštine neposrednim obraćanjem poslanicima i optuživanjem za povezanost sa organizovanim kriminalom.",
    "wall": 1795429378220,
    "id": "a54300"
+  },
+  {
+   "t": 5610.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "da se ne bi valjali u brlogu sa ovim ljudima.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom pogrdnog izraza 'valjati se u brlogu'.",
+   "wall": 1795429558220,
+   "id": "a56100"
+  },
+  {
+   "t": 5670.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi ste brlog po sebi, gospodine Bakiću. Vi ne morate da se valjate u brlogu, vi ste brlog po sebi.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom poslaniku na uvredljiv način.",
+   "wall": 1795429618220,
+   "id": "a56700"
+  },
+  {
+   "t": 5730.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ja ću jednu po jednu potanko da vam objasnim i da vam dokažem kakav ste lažov. Uzgled i kriminalac",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'lažov' i 'kriminalac' u direktnom obraćanju.",
+   "wall": 1795429678220,
+   "id": "a57300"
   }
  ]
 }
