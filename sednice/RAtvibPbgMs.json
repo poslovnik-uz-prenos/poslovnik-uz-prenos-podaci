@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:03:02+0100",
+ "generisano": "2026-11-23T12:04:14+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -649,6 +649,20 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom izraza 'kriminalaca'.",
    "wall": 1795435307490,
    "id": "a73914"
+  },
+  {
+   "t": 7643.68,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "evo u soliteru kod gospodina Čupića ima devet komada pa svi da se smeste tamo",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda jer se govori o smeštaju poslanika, što nije tema sednice.",
+   "wall": 1795435559730,
+   "id": "a76436"
   }
  ]
 }
