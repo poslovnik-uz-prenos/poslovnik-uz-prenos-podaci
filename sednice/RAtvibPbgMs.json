@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T09:55:00+0100",
+ "generisano": "2026-11-23T09:56:06+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -33,6 +33,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'bljuvotine'.",
    "wall": 1795424422080,
    "id": "a4738"
+  },
+  {
+   "t": 726.1,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "rekao da Ustašku Bitangu treba uhapsiti i protraditi Srbije.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'Ustašku Bitangu'.",
+   "wall": 1795424674320,
+   "id": "a7261"
   }
  ]
 }
