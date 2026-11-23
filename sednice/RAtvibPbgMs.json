@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:46:27+0100",
+ "generisano": "2026-11-23T11:47:29+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -439,6 +439,20 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza 'valjati se u brlogu'.",
    "wall": 1795433526050,
    "id": "a56100"
+  },
+  {
+   "t": 5660.04,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi ste brlog po sebi, gospodine Bakiću. Vi ne morate da se valjate u brlogu, vi ste brlog po sebi.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza i neposrednim obraćanjem drugom poslaniku.",
+   "wall": 1795433576090,
+   "id": "a56600"
   }
  ]
 }
