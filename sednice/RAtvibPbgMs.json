@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:02:44+0100",
+ "generisano": "2026-11-23T10:03:53+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -173,6 +173,20 @@
    "obrazlozenje": "Moguća je upotreba uvredljivog izraza.",
    "wall": 1795426257380,
    "id": "a23091_1"
+  },
+  {
+   "t": 2537.9,
+   "tip": "moguca",
+   "govornik": "Milan Radin",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A vi, jada, niste razumeli šta ste čitali.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom izraza 'jada' i neposrednim obraćanjem drugom poslaniku.",
+   "wall": 1795426486120,
+   "id": "a25379"
   }
  ]
 }
