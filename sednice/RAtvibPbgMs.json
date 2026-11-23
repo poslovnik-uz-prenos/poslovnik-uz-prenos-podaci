@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T09:59:24+0100",
+ "generisano": "2026-11-23T10:00:30+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -103,6 +103,20 @@
    "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku uz iznošenje činjenica koje se odnose na privatni život.",
    "wall": 1795425352620,
    "id": "a14044"
+  },
+  {
+   "t": 1825.2,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "a vi koji ste klepali pare i sebi u džep stavljali,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza i optužbom za proneveru.",
+   "wall": 1795425773420,
+   "id": "a18252"
   }
  ]
 }
