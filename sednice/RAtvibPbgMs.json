@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:13:57+0100",
+ "generisano": "2026-11-23T12:14:59+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -775,6 +775,48 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivih izraza 'tajkuni i paraziti', 'loši momci, ubice'.",
    "wall": 1795436706050,
    "id": "a87900"
+  },
+  {
+   "t": 8855.5,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Toliko ste mi odvratni da ne mogu da vas gledam.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'odvratni'.",
+   "wall": 1795436771550,
+   "id": "a88555"
+  },
+  {
+   "t": 8876.52,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi ste slika i prilika nesreće Srbije.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva neposrednim obraćanjem drugom poslaniku na uvredljiv način.",
+   "wall": 1795436792570,
+   "id": "a88765"
+  },
+  {
+   "t": 8921.84,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "slušao je vaše ludosti",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795436837890,
+   "id": "a89218"
   }
  ]
 }
