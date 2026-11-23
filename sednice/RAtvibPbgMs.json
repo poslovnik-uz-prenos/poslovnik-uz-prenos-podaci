@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:19:30+0100",
+ "generisano": "2026-11-23T10:20:35+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -607,6 +607,34 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'lažov' i neposrednim obraćanjem drugom poslaniku.",
    "wall": 1795430206660,
    "id": "a62584"
+  },
+  {
+   "t": 6382.74,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi ste namerno izbjegli da pomenete jedan klan. Namerno. on je deo Kavačkog klana koji vas je pomagao na ovim izborima.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku na uvredljiv način, optužujući ga za saradnju sa kriminalnim klanom.",
+   "wall": 1795430330960,
+   "id": "a63827"
+  },
+  {
+   "t": 6420.66,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "da lažete gospodine Bakiću, nikada niko privrednike naše nije reketirao, nikada im niko ništa otimao nije",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku uz optužbu za laganje.",
+   "wall": 1795430368880,
+   "id": "a64206"
   }
  ]
 }
