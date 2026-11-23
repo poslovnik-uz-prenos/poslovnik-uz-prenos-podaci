@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:11:53+0100",
+ "generisano": "2026-11-23T11:13:02+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -103,6 +103,34 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način i iznošenje činjenica koje se odnose na privatni život.",
    "wall": 1795429353030,
    "id": "a14369"
+  },
+  {
+   "t": 1500.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ovde je reč o jednom parazitskom sloju.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza 'parazitski sloj'.",
+   "wall": 1795429416050,
+   "id": "a15000"
+  },
+  {
+   "t": 1620.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "On inače je potrčko taj kuna Petra Matijevića",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom pogrdnog izraza 'potrčko'.",
+   "wall": 1795429536050,
+   "id": "a16200"
   }
  ]
 }
