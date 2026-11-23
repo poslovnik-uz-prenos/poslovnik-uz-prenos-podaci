@@ -2,8 +2,23 @@
  "verzija": 1,
  "videoId": "RAtvibPbgMs",
  "naslov": "",
- "rezim": "snimak",
- "generisano": "2026-11-23T10:58:28+0100",
+ "rezim": "uzivo",
+ "generisano": "2026-11-23T10:58:58+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
- "dogadjaji": []
+ "dogadjaji": [
+  {
+   "t": 19.92,
+   "tip": "clan",
+   "govornik": "Predsedavajući Stojan Radenović",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    88
+   ],
+   "kontekst": "Podseća vas da je članom 88. stav 5 poslovnika Narodne skupšine je predvidjeno da Kvorum za rad Narodne skupšine na prvoj sednici Narodne skupšine",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795427935970,
+   "id": "p199"
+  }
+ ]
 }
