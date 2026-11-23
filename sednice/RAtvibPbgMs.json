@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:07:31+0100",
+ "generisano": "2026-11-23T12:08:34+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -733,6 +733,34 @@
    "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
    "wall": 1795435972330,
    "id": "a80562"
+  },
+  {
+   "t": 8114.02,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kad biste snaznali kako je Zdravković klepio 300.000 evra, a u Nišu nam priča o poštenju.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva Narodne skupštine iznošenjem činjenica i ocena koje se odnose na privatni život drugog lica.",
+   "wall": 1795436030070,
+   "id": "a81140"
+  },
+  {
+   "t": 8160.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Naučit će taj, kad budete postavili čuvenog glumca za ministra odbrane ili nekog takvog velikog stručnjaka za razaranje vojske iz kluba Milionđije, dakle, kad to budete uradili, onda ćete da naučite.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda jer se govori o postavljanju ministra odbrane i razaranju vojske, što nije tema sednice.",
+   "wall": 1795436076050,
+   "id": "a81600"
   }
  ]
 }
