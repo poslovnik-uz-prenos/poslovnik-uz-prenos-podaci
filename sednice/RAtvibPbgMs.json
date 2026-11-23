@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:33:36+0100",
+ "generisano": "2026-11-23T11:34:41+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -271,6 +271,20 @@
    "napomena": "",
    "wall": 1795431740930,
    "id": "p38248"
+  },
+  {
+   "t": 4134.02,
+   "tip": "moguca",
+   "govornik": "Milenko Jovanov",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Mi smo u ova tri dana videli to pravo nakaznje.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'nakaznje'.",
+   "wall": 1795432050070,
+   "id": "a41340"
   }
  ]
 }
