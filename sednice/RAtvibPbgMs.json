@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:14:06+0100",
+ "generisano": "2026-11-23T11:15:09+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -131,6 +131,20 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom pogrdnog izraza 'potrčko'.",
    "wall": 1795429536050,
    "id": "a16200"
+  },
+  {
+   "t": 1825.2,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "a vi koji ste klepali pare i sebi u džep stavljali,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivog izraza i optužbe za proneveru.",
+   "wall": 1795429741250,
+   "id": "a18252"
   }
  ]
 }
