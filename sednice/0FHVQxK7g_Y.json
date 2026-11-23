@@ -3,7 +3,22 @@
  "videoId": "0FHVQxK7g_Y",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:56:47+0100",
+ "generisano": "2026-11-23T12:57:49+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
- "dogadjaji": []
+ "dogadjaji": [
+  {
+   "t": 105.02,
+   "tip": "clan",
+   "govornik": "Predsedavajući Nada Macura",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    9
+   ],
+   "kontekst": "Saglasno u uvašćenju iz člana 9 stav 5 poslovnika, utvrđujem listu kandidata za predsednika Narodne skupštine po azbučnom redu prezimena i to. Hvala vam. pod dva Čupića Aleksandar.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795435090856,
+   "id": "p1050"
+  }
+ ]
 }
