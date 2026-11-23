@@ -2,8 +2,8 @@
  "verzija": 1,
  "videoId": "RAtvibPbgMs",
  "naslov": "",
- "rezim": "uzivo",
- "generisano": "2026-11-23T10:30:36+0100",
+ "rezim": "snimak",
+ "generisano": "2026-11-23T10:31:39+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -929,6 +929,62 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza 'ludosti'.",
    "wall": 1795432870060,
    "id": "a89218"
+  },
+  {
+   "t": 8970.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "I koliko ćete ovih policajaca, frižider policajaca i ostalih morati da angažujete da nas izbace na polje.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnog izraza 'frižider policajaca'.",
+   "wall": 1795432918220,
+   "id": "a89700"
+  },
+  {
+   "t": 9030.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Da vas pitam, niste vi ovde svi levičari, anarchisti i marksisti?",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje poslanicima na uvredljiv način.",
+   "wall": 1795432978220,
+   "id": "a90300"
+  },
+  {
+   "t": 9030.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A hoćemo i pasija groblja da organizujemo? Hoćete tamo da mi oduzmete kiselnik?",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje poslanicima na uvredljiv način.",
+   "wall": 1795432978220,
+   "id": "a90300_1"
+  },
+  {
+   "t": 9174.22,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Naučit ćete jednog dana na ulici kad nasretnete da kažete i dobar dan.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795433122440,
+   "id": "a91742"
   }
  ]
 }
