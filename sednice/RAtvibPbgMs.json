@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:07:16+0100",
+ "generisano": "2026-11-23T10:08:26+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -243,6 +243,34 @@
    "obrazlozenje": "Moguća povreda jer se govori o političkoj karijeri Aleksandra Vučića, a ne o tački dnevnog reda.",
    "wall": 1795426978220,
    "id": "a30300"
+  },
+  {
+   "t": 3459.36,
+   "tip": "moguca",
+   "govornik": "Nataša Jovanović",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "a on u stvari potpuno nadralno deluje, a on u stvari sa kosma ja došao na Voždovac, da kao pravi tajkun sebi, pravi nekretnine, da stiče ogromno bogatstvo, a da se predstavlja kao isposnik, kao neki fin čovek,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem drugom poslaniku na uvredljiv način.",
+   "wall": 1795427407580,
+   "id": "a34593"
+  },
+  {
+   "t": 3489.86,
+   "tip": "moguca",
+   "govornik": "Nataša Jovanović",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Parlament i parlamentarni život u Srbiji je još ustavom 90. godine obnovljen kao istorijska težnja naroda posle toliko godina komunističke vladavine",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda jer se govori o istoriji parlamentarizma umesto o tački dnevnog reda.",
+   "wall": 1795427438080,
+   "id": "a34898"
   }
  ]
 }
