@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:17:13+0100",
+ "generisano": "2026-11-23T10:18:20+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -523,6 +523,62 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'lažov' i 'kriminalac' u direktnom obraćanju.",
    "wall": 1795429678220,
    "id": "a57300"
+  },
+  {
+   "t": 5808.88,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "bez histerije, dreke i vike, i lošeg glumatanja, koje ne može da se nauči nikod loših profesora na FDU",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom poslaniku na uvredljiv način.",
+   "wall": 1795429757100,
+   "id": "a58088"
+  },
+  {
+   "t": 5888.2,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "To rade vrhunski kriminalci. Ko ste vi da to radite?",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'vrhunski kriminalci' u neposrednom obraćanju.",
+   "wall": 1795429836420,
+   "id": "a58882"
+  },
+  {
+   "t": 5954.5,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Od ljudske bede do besprizornika i najtežih mogućih uvreda koje ste izgovarali ljudima",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'ljudske bede' i 'besprizornika'.",
+   "wall": 1795429902720,
+   "id": "a59545"
+  },
+  {
+   "t": 6000.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kriminalac od Milovana Brkića.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'kriminalac'.",
+   "wall": 1795429948220,
+   "id": "a60000"
   }
  ]
 }
