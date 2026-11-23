@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:28:11+0100",
+ "generisano": "2026-11-23T11:29:15+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -229,6 +229,20 @@
    "obrazlozenje": "Moguća povreda jer se govori o osećanjima dece i odlasku investitora, što deluje van teme.",
    "wall": 1795430839910,
    "id": "a29238"
+  },
+  {
+   "t": 3529.44,
+   "tip": "moguca",
+   "govornik": "Nataša Jovanović",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "lažni isposnik, u stvari koji je predstavnik tajkunsko-parazitske vlasti, koja sedi sa druge strane, a on je najveći eksponent te tajkunsko-parazite,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza kao što su 'lažni isposnik' i 'tajkunsko-parazitske vlasti'.",
+   "wall": 1795431445490,
+   "id": "a35294"
   }
  ]
 }
