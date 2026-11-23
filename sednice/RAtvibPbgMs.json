@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:55:04+0100",
+ "generisano": "2026-11-23T11:56:10+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -537,6 +537,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i optužbi za korupciju.",
    "wall": 1795434546050,
    "id": "a66300"
+  },
+  {
+   "t": 6750.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ajde Mangupi niste više tako jaki ne, kukavice, jedne najobičnije",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'Mangupi' i 'kukavice'.",
+   "wall": 1795434666050,
+   "id": "a67500"
   }
  ]
 }
