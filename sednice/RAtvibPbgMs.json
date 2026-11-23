@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:12:49+0100",
+ "generisano": "2026-11-23T12:13:57+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -761,6 +761,20 @@
    "obrazlozenje": "Moguća povreda jer se govori o postavljanju ministra odbrane i razaranju vojske, što nije tema sednice.",
    "wall": 1795436076050,
    "id": "a81600"
+  },
+  {
+   "t": 8790.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "U njoj ne sede samo tajkuni i paraziti. Ili loši momci, ubice i šta god već ste govorili.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivih izraza 'tajkuni i paraziti', 'loši momci, ubice'.",
+   "wall": 1795436706050,
+   "id": "a87900"
   }
  ]
 }
