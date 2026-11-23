@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:11:36+0100",
+ "generisano": "2026-11-23T10:12:43+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -341,6 +341,48 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'verbalne diareje'.",
    "wall": 1795428388220,
    "id": "a44400"
+  },
+  {
+   "t": 4500.0,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "zove informer, to nije televizija, nego duhovna trovačnica. I duhovna trovačnica nema mesta u zemlji.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba pogrdnog naziva 'duhovna trovačnica'.",
+   "wall": 1795428448220,
+   "id": "a45000"
+  },
+  {
+   "t": 4516.06,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Pored toga, hoćete li utišati ove besprizornike ili ne?",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba pogrdnog naziva 'besprizornike'.",
+   "wall": 1795428464280,
+   "id": "a45160"
+  },
+  {
+   "t": 4609.38,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "javlja se advokat režima organizovanog kriminala.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivog izraza i neposrednim obraćanjem.",
+   "wall": 1795428557600,
+   "id": "a46093"
   }
  ]
 }
