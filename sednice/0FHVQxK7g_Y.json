@@ -1,0 +1,50 @@
+{
+ "verzija": 1,
+ "videoId": "0FHVQxK7g_Y",
+ "naslov": "Prva sednica 15. saziva, treći dan (deo 2)",
+ "rezim": "snimak",
+ "generisano": "2026-11-23T13:22:04+0100",
+ "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
+ "dogadjaji": [
+  {
+   "t": 308.22,
+   "tip": "clan",
+   "govornik": "Predsedavajući Nada Macura",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    10
+   ],
+   "kontekst": "narodnih poslovnika član 10 stav 2 poslovnika. predlažem da se izbor predsednika Narodne skupštine obavi javnim glasanjem prozivkom narodnih poslanika.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p3082"
+  },
+  {
+   "t": 435.68,
+   "tip": "clan",
+   "govornik": "Predsedavajući Nada Macura",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    10,
+    131
+   ],
+   "kontekst": "glasanje treba da obavimo prozivkom narodnih poslanika član 10 stav 2 poslovnika.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p4356"
+  },
+  {
+   "t": 575.7,
+   "tip": "clan",
+   "govornik": "Predsedavajući Nada Macura",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    131
+   ],
+   "kontekst": "Član 131. stav 4 poslovnika. Molim narodne poslanike da prilikom glasanja ustanu i da se izjasne.",
+   "odluka": "",
+   "napomena": "",
+   "id": "p5757"
+  }
+ ]
+}
