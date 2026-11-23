@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:25:07+0100",
+ "generisano": "2026-11-23T10:26:13+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -747,6 +747,34 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom izraza 'kriminalaca'.",
    "wall": 1795431339660,
    "id": "a73914"
+  },
+  {
+   "t": 7776.58,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Jedan apšen zbog dilovanja drogom, jedan poznat po tome, drugi zbog frižidera i ne znam nija čega, ali o tom potom.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće iznošenje činjenica i ocena koje se odnose na privatni život drugih lica.",
+   "wall": 1795431724800,
+   "id": "a77765"
+  },
+  {
+   "t": 7797.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kad su vaši kriminalci upali u televiziju, informer,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća upotreba uvredljivih izraza ('kriminalci').",
+   "wall": 1795431745220,
+   "id": "a77970"
   }
  ]
 }
