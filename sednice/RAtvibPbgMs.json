@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:12:43+0100",
+ "generisano": "2026-11-23T10:13:45+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -383,6 +383,34 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivog izraza i neposrednim obraćanjem.",
    "wall": 1795428557600,
    "id": "a46093"
+  },
+  {
+   "t": 4768.58,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Sramno! Sramno!",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795428716800,
+   "id": "a47685"
+  },
+  {
+   "t": 4768.58,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Kada ste govorili o Saudinskoj Arabi i vašem odlasku tamo, rekli ste da su vam čerke nezaposlene bile.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva iznošenjem činjenica koje se odnose na privatni život drugog lica.",
+   "wall": 1795428716800,
+   "id": "a47685_1"
   }
  ]
 }
