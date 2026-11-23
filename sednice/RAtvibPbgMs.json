@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:08:26+0100",
+ "generisano": "2026-11-23T10:09:28+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -271,6 +271,34 @@
    "obrazlozenje": "Moguća povreda jer se govori o istoriji parlamentarizma umesto o tački dnevnog reda.",
    "wall": 1795427438080,
    "id": "a34898"
+  },
+  {
+   "t": 3810.0,
+   "tip": "clan",
+   "govornik": "Predsedavajući Stojan Radenović",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    96
+   ],
+   "kontekst": "članu 96 poslovnika. Prvo poslovnika, Ana Brnabeć. Prvo poslovnika. E, dobro. Poslovnika. A, izmijevam se. Ana Brnabeć, gospođa Ana Brnabeć prijavila je povredu poslovnika.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795427758220,
+   "id": "p38100"
+  },
+  {
+   "t": 3824.88,
+   "tip": "clan",
+   "govornik": "Ana Brnabić",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "Za kraj, samo da kažem poštovnim građanima Republike Srbije da je ovo što smo videli član 107, opet poštovanje Narodne skupštine, Hvala vam. ga ovde videli od predstavnika studentske liste. Nismo ga videli od predstavnika studentske liste evo treći dan. Od prvog dana ga nismo videli, ali ono što je apsolutno nečuveno",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795427773100,
+   "id": "p38248"
   }
  ]
 }
