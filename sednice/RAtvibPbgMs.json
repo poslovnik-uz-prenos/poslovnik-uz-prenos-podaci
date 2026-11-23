@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:03:16+0100",
+ "generisano": "2026-11-23T11:04:20+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -33,6 +33,34 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'bljuvotine'.",
    "wall": 1795428389910,
    "id": "a4738"
+  },
+  {
+   "t": 491.12,
+   "tip": "moguca",
+   "govornik": "Uglješa Mrdić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Sram vas bilo šta ste radili.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795428407170,
+   "id": "a4911"
+  },
+  {
+   "t": 546.96,
+   "tip": "moguca",
+   "govornik": "Dr Uglješa Mrdić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "šaljete kriminalne klanove iz Srbije i regiona. Maltretirate ljude. Napravili ste kriminalno-korupcionašku mrežu",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i optužbi.",
+   "wall": 1795428463010,
+   "id": "a5469"
   }
  ]
 }
