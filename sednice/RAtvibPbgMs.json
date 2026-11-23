@@ -2,8 +2,8 @@
  "verzija": 1,
  "videoId": "RAtvibPbgMs",
  "naslov": "",
- "rezim": "uzivo",
- "generisano": "2026-11-23T12:16:02+0100",
+ "rezim": "snimak",
+ "generisano": "2026-11-23T12:17:00+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -817,6 +817,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
    "wall": 1795436837890,
    "id": "a89218"
+  },
+  {
+   "t": 9174.22,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Naučit ćete jednog dana na ulici kad nasretnete da kažete i dobar dan.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795437090270,
+   "id": "a91742"
   }
  ]
 }
