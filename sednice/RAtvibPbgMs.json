@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:01:39+0100",
+ "generisano": "2026-11-23T10:02:44+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -117,6 +117,62 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza i optužbom za proneveru.",
    "wall": 1795425773420,
    "id": "a18252"
+  },
+  {
+   "t": 2134.64,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Pa i Nele Karajlić je doktor, ali niko ne ide da se leči kod njega.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način, poređenjem sa drugom osobom.",
+   "wall": 1795426082860,
+   "id": "a21346"
+  },
+  {
+   "t": 2257.6,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "od vas parazita sa studenske liste.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'parazita'.",
+   "wall": 1795426205820,
+   "id": "a22576"
+  },
+  {
+   "t": 2309.16,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Obraz, Đoni, nema mnogo problema.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba pogrdnog izraza.",
+   "wall": 1795426257380,
+   "id": "a23091"
+  },
+  {
+   "t": 2309.16,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "od ljudske bede do onoga što se dogodilo",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza.",
+   "wall": 1795426257380,
+   "id": "a23091_1"
   }
  ]
 }
