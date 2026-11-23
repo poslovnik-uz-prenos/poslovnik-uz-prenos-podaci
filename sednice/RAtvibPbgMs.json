@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:40:02+0100",
+ "generisano": "2026-11-23T11:41:08+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -341,6 +341,20 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivog izraza i neposrednim obraćanjem.",
    "wall": 1795432525430,
    "id": "a46093"
+  },
+  {
+   "t": 4988.94,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ti vođi navijača su zapravo trgovci drogom, razbojnici.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza.",
+   "wall": 1795432904990,
+   "id": "a49889"
   }
  ]
 }
