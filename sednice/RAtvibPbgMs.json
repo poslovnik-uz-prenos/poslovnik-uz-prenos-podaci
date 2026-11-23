@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T12:06:28+0100",
+ "generisano": "2026-11-23T12:07:31+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -677,6 +677,62 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom izraza 'kriminalci'.",
    "wall": 1795435713050,
    "id": "a77970"
+  },
+  {
+   "t": 7913.98,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Sve isposnici i multimilioneri. ili što bi gospodin Stanić rekao milionđije.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnog naziva 'milionđije' za poslanike.",
+   "wall": 1795435830030,
+   "id": "a79139"
+  },
+  {
+   "t": 7980.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "I pravi naziv je te liste, tajkunsko-parazitska lista. Baš tajkunsko-parazitska lista. Sve tajkuni ili paraziti.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'tajkunsko-parazitska lista' i 'paraziti'.",
+   "wall": 1795435896050,
+   "id": "a79800"
+  },
+  {
+   "t": 8053.56,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Deo podrške tajkunsko-parazitskoj listi.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom pogrdnog izraza 'parazitskoj listi'.",
+   "wall": 1795435969610,
+   "id": "a80535"
+  },
+  {
+   "t": 8056.28,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Je li vam nije dobro, pa gledate na sat ili šta? Nije vam dobro nešto?",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795435972330,
+   "id": "a80562"
   }
  ]
 }
