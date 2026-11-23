@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T11:49:35+0100",
+ "generisano": "2026-11-23T11:50:42+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -481,6 +481,20 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'kriminalcima'.",
    "wall": 1795433909590,
    "id": "a59935"
+  },
+  {
+   "t": 6039.56,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ta bitanga je napisala da sam ja tukao svoju ženu u stomak i da je zato to dete preminulo.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom uvredljivog izraza 'bitanga'.",
+   "wall": 1795433955610,
+   "id": "a60395"
   }
  ]
 }
