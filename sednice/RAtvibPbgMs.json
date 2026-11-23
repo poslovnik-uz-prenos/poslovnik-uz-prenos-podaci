@@ -3,7 +3,7 @@
  "videoId": "RAtvibPbgMs",
  "naslov": "",
  "rezim": "uzivo",
- "generisano": "2026-11-23T10:20:35+0100",
+ "generisano": "2026-11-23T10:21:41+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -635,6 +635,34 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku uz optužbu za laganje.",
    "wall": 1795430368880,
    "id": "a64206"
+  },
+  {
+   "t": 6750.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ajde Mangupi niste više tako jaki ne, kukavice, jedne najobičnije",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza 'Mangupi' i 'kukavice'.",
+   "wall": 1795430698220,
+   "id": "a67500"
+  },
+  {
+   "t": 6812.14,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Stojan Radenović (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "U to vreme zlog Aleksandra Vučića",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza.",
+   "wall": 1795430760360,
+   "id": "a68121"
   }
  ]
 }
