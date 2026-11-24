@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:18:07+0100",
+ "generisano": "2026-11-24T12:19:11+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -315,6 +315,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'odvratni' upućenog poslanicima.",
    "wall": 1795518941604,
    "id": "a80865"
+  },
+  {
+   "t": 8182.2,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "vi ste organizovana kriminalna grupa, vas je vodio i Maršavelski",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem.",
+   "wall": 1795519037224,
+   "id": "a81822"
   }
  ]
 }
