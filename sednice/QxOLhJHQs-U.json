@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:13:53+0100",
+ "generisano": "2026-11-24T12:14:57+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -287,6 +287,20 @@
    "napomena": "",
    "wall": 1795518656964,
    "id": "p78019"
+  },
+  {
+   "t": 7935.1,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi. I da joj kažete sram vas bilo, ne možeš više tu da sediš.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'sram vas bilo' i neposrednim obraćanjem.",
+   "wall": 1795518790124,
+   "id": "a79351"
   }
  ]
 }
