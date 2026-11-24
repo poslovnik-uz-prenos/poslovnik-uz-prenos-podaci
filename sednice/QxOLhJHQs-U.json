@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:44:58+0100",
+ "generisano": "2026-11-24T12:46:03+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -441,6 +441,20 @@
    "obrazlozenje": "Moguća je upotreba uvredljivog izraza.",
    "wall": 1795520626524,
    "id": "a97715"
+  },
+  {
+   "t": 9799.56,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Izbacite odmah iz Narodne skupštine gospodina Krizmanovića, koji je bio 61. na vašoj listi, član Rio Tinta, radio sa Rio Tintom mi bio uposleni kriotinta.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način, uz iznošenje činjenica koje se odnose na privatni život.",
+   "wall": 1795520654584,
+   "id": "a97995"
   }
  ]
 }
