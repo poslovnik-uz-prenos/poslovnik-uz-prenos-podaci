@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T11:27:59+0100",
+ "generisano": "2026-11-24T11:29:04+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -20,6 +20,20 @@
    "napomena": "",
    "wall": 1795510996964,
    "id": "p1419"
+  },
+  {
+   "t": 5223.5,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    101
+   ],
+   "kontekst": "Na osnovu člana 101 poslovnika Narodne skupštine vi ste prekinuli, zapravo nismo ni počeli faktički rad ove sednice, današnji radni dan, i vi imate pravo na to,",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795516078524,
+   "id": "p52235"
   }
  ]
 }
