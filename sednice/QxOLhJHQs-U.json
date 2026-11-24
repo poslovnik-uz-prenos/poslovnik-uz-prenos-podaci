@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:52:27+0100",
+ "generisano": "2026-11-24T12:53:32+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -481,6 +481,20 @@
    "napomena": "",
    "wall": 1795521100924,
    "id": "p102459"
+  },
+  {
+   "t": 10297.0,
+   "tip": "clan",
+   "govornik": "Ana Brnabić",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "Hajde opet po članu 107. Poštovanje Narodne skupštine znači poštovanje narodnih poslanika i svih poslaničkih grupa. Ja razumem da vi studenski listi Nobelovci, takvi kakvi ste, ne možete da razumete i ne možete da zapamtite da se naša poslanička grupa zove poslanička grupa Aleksandar Vučić i ono što je posebno teško...",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795521152024,
+   "id": "p102970"
   }
  ]
 }
