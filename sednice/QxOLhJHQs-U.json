@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:05:22+0100",
+ "generisano": "2026-11-24T12:06:25+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -199,6 +199,21 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'pokvareni trik' i predlogom za isključenje, uz direktno obraćanje poslanici.",
    "wall": 1795518178244,
    "id": "a73232"
+  },
+  {
+   "t": 7479.9,
+   "tip": "clan",
+   "govornik": "Milenko Jovanov",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    27,
+    107
+   ],
+   "kontekst": "100 povreda poslovnika, član 27, član 107. Morali ste da vodite računa o dostojanstvu Narodne skupštine. Niste vodili računa o dostojanstvu Narodne skupštine ni sada, dan i na prošloj sednici... I ja ću reagovati svaki put kada to budete radili, pošto predstavnici liste koji su vas predložili",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795518334924,
+   "id": "p74799"
   }
  ]
 }
