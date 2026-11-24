@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T11:46:10+0100",
+ "generisano": "2026-11-24T11:47:16+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -117,6 +117,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva zbog neposrednog obraćanja drugom poslaniku na uvredljiv način.",
    "wall": 1795516603304,
    "id": "a57482"
+  },
+  {
+   "t": 6270.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Želim da vam ispričam, a vi, pošto ja mislim da je reč o veoma važnoj stvari, do 4.15, pošto je prijavio policiji, zanimljivo je, do 4.15 policajci su bili ispred njegove kuće.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda jer se govori o događajima koji nisu na dnevnom redu.",
+   "wall": 1795517125024,
+   "id": "a62700"
   }
  ]
 }
