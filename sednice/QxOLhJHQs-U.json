@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:20:15+0100",
+ "generisano": "2026-11-24T12:21:22+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -329,6 +329,34 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem.",
    "wall": 1795519037224,
    "id": "a81822"
+  },
+  {
+   "t": 8307.24,
+   "tip": "moguca",
+   "govornik": "Jovo Bakić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "To su vaši besprizorni...",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza.",
+   "wall": 1795519162264,
+   "id": "a83072"
+  },
+  {
+   "t": 8361.22,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Niste vi nikakav organ gonjenja danas, nećete biti ni sutra.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795519216244,
+   "id": "a83612"
   }
  ]
 }
