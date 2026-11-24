@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:08:31+0100",
+ "generisano": "2026-11-24T12:09:36+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -214,6 +214,20 @@
    "napomena": "",
    "wall": 1795518334924,
    "id": "p74799"
+  },
+  {
+   "t": 7672.7,
+   "tip": "clan",
+   "govornik": "Ana Brnabić",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    108
+   ],
+   "kontekst": "Povreda poslovnika članu 108 stav 2 zbog povrede reda na sednici, i predsednik Narodne skupštine može da izrkne meru opumenu. mere opomena, oduzimanje reči, udaljenje sa sednice. Ovo što smo čuli od vaše pot predsednice Narodne skupštine, sramotno što je takva osoba, uopšte pot predsednik ovog častnog",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795518527724,
+   "id": "p76727"
   }
  ]
 }
