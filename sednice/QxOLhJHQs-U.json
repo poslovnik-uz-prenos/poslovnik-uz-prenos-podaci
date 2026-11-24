@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:03:09+0100",
+ "generisano": "2026-11-24T13:04:15+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -577,6 +577,20 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
    "wall": 1795521441544,
    "id": "a105865_1"
+  },
+  {
+   "t": 10910.32,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "To što vi čete, neki malopre koji su se javili, nisam siguran da su još to savladali.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva Narodne skupštine neposrednim obraćanjem poslanicima na uvredljiv način.",
+   "wall": 1795521765344,
+   "id": "a109103"
   }
  ]
 }
