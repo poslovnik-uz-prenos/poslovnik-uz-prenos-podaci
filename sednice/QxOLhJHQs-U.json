@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T14:00:03+0100",
+ "generisano": "2026-11-24T14:01:07+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -817,6 +817,34 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku.",
    "wall": 1795525096524,
    "id": "a142415"
+  },
+  {
+   "t": 14288.4,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ovakvim ljudima opasnim po svoju okolinu zabranite dolazak u našu Skupštinu.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem.",
+   "wall": 1795525143424,
+   "id": "a142884"
+  },
+  {
+   "t": 14315.06,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "od onih koji se bave glumom, a u pozorište 15 godina nisu ušli, a svakog meseca primaju platu",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je uvreda dostojanstva zbog iznošenja činjenica o privatnom životu drugih lica.",
+   "wall": 1795525170084,
+   "id": "a143150"
   }
  ]
 }
