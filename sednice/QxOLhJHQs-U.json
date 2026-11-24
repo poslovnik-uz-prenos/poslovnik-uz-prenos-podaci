@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:53:32+0100",
+ "generisano": "2026-11-24T12:54:37+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -495,6 +495,32 @@
    "napomena": "",
    "wall": 1795521152024,
    "id": "p102970"
+  },
+  {
+   "t": 10297.0,
+   "tip": "moguca",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ja razumem da vi studenski listi Nobelovci, takvi kakvi ste, ne možete da razumete i ne možete da zapamtite",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795521152024,
+   "id": "a102970"
+  },
+  {
+   "t": 10381.98,
+   "tip": "clan",
+   "govornik": "Sanja Fric",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Otklonio sam povredu poslovnika. Izvinjavam se. Ja sam bila član Republičke revizione komisije od 2017. do 2020. godine, kada ste me iz iste vi izbacili, zato što sam štitila interese Republike Srbije, za razliku od vas. U poslednje dve godine, vi, vaši poslušnici i vaši mediji,",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795521237004,
+   "id": "p103819"
   }
  ]
 }
