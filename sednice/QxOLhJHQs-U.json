@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:33:19+0100",
+ "generisano": "2026-11-24T13:34:23+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -707,6 +707,20 @@
    "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'glup'.",
    "wall": 1795523498224,
    "id": "a126432"
+  },
+  {
+   "t": 12729.54,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Kad imate radio i televiziju Srbije koja je najgora, ali apsolutno najgora medijska kanalizacija.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'medijska kanalizacija'.",
+   "wall": 1795523584564,
+   "id": "a127295"
   }
  ]
 }
