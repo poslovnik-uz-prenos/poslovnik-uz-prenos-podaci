@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:09:36+0100",
+ "generisano": "2026-11-24T12:10:40+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -228,6 +228,20 @@
    "napomena": "",
    "wall": 1795518527724,
    "id": "p76727"
+  },
+  {
+   "t": 7680.0,
+   "tip": "moguca",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "sramotno što je takva osoba, uopšte pot predsednik ovog častnog i dostojanstvenog doma.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva Narodne skupštine i neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795518535024,
+   "id": "a76800"
   }
  ]
 }
