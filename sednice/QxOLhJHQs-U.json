@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:32:14+0100",
+ "generisano": "2026-11-24T13:33:19+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -693,6 +693,20 @@
    "napomena": "",
    "wall": 1795523475364,
    "id": "p126203"
+  },
+  {
+   "t": 12643.2,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ja sam zamolio moje kolege da mi ne govore ništa, jer toliko glup nisam da zapamtim šta je član 107.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'glup'.",
+   "wall": 1795523498224,
+   "id": "a126432"
   }
  ]
 }
