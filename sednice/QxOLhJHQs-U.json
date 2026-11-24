@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:10:40+0100",
+ "generisano": "2026-11-24T12:11:44+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -242,6 +242,51 @@
    "obrazlozenje": "Moguća uvreda dostojanstva Narodne skupštine i neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
    "wall": 1795518535024,
    "id": "a76800"
+  },
+  {
+   "t": 7746.1,
+   "tip": "moguca",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "je vaše pljuvanje u lice milion 740 hiljada građana Republike Srbije",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'pljuvanje u lice'.",
+   "wall": 1795518601124,
+   "id": "a77461"
+  },
+  {
+   "t": 7761.72,
+   "tip": "moguca",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Sram bilo vas, Saru Valentik, i svu ovu prevar uzvanu studentska listka.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'sram bilo vas' i 'prevaru'.",
+   "wall": 1795518616744,
+   "id": "a77617"
+  },
+  {
+   "t": 7801.94,
+   "tip": "clan",
+   "vrsta": "opomena",
+   "mera": true,
+   "kome": "",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "clanovi": [
+    109
+   ],
+   "clanovi_tekst": "čl. 109",
+   "kontekst": "Hvala vam. Posljednji put vas upozoravam. Izričem vam opomenu. Dakle, izričem vam opomenu",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795518656964,
+   "id": "p78019"
   }
  ]
 }
