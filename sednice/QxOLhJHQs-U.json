@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:53:42+0100",
+ "generisano": "2026-11-24T13:54:47+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -789,6 +789,20 @@
    "napomena": "",
    "wall": 1795524675824,
    "id": "p138208"
+  },
+  {
+   "t": 13939.88,
+   "tip": "moguca",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "bi da urinira po predstavnicima milion 740 hiljada građana Republike Srbije.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795524794904,
+   "id": "a139398"
   }
  ]
 }
