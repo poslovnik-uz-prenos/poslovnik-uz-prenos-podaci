@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T15:55:55+0100",
+ "generisano": "2026-11-24T15:56:58+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -943,6 +943,21 @@
    "obrazlozenje": "Moguća je upotreba pogrdnog izraza za Odbor.",
    "wall": 1795531513724,
    "id": "a206587"
+  },
+  {
+   "t": 21347.56,
+   "tip": "clan",
+   "govornik": "Milenko Jovanov (procena)",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    27,
+    107
+   ],
+   "kontekst": "Povreda poslovnika. Povreda poslovnika, članovi 27, član 107 i 8. Dakle, gospodine predsedniče Skupštine,",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795532202584,
+   "id": "p213475"
   }
  ]
 }
