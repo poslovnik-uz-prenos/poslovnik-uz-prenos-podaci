@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T11:52:32+0100",
+ "generisano": "2026-11-24T11:53:35+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -159,6 +159,20 @@
    "obrazlozenje": "Moguća je duža digresija o opštoj bezbednosti i bacanju bombi, što nije direktno vezano za tačku dnevnog reda.",
    "wall": 1795517261084,
    "id": "a64060"
+  },
+  {
+   "t": 6649.14,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A ja mislim da nam činite veliko dobro i mnogo vam hvala što pokazujete svoje antidemokratsko opredeljenje.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'antidemokratsko opredeljenje' u neposrednom obraćanju.",
+   "wall": 1795517504164,
+   "id": "a66491"
   }
  ]
 }
