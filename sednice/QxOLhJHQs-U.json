@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:34:23+0100",
+ "generisano": "2026-11-24T13:35:26+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -721,6 +721,18 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'medijska kanalizacija'.",
    "wall": 1795523584564,
    "id": "a127295"
+  },
+  {
+   "t": 12829.16,
+   "tip": "clan",
+   "govornik": "Aleksandar Vučić (procena)",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "107 povrada poslovnika. Dame i gospodo, pošto ovde u ovom visokom domu postoji jedan nevarovatan običaj, a to je šta god ih pitati i kako god im kaže kažete, vi mene pitate, jesi u državnoj vili, ja kažem nisam, idite, ušetajte, saradite, šta hoćete, gde god hoćete. Šta god da me pitate, ja ću da vam kažem.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795523684184,
+   "id": "p128291"
   }
  ]
 }
