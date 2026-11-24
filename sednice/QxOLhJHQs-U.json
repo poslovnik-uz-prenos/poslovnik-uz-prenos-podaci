@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T15:18:24+0100",
+ "generisano": "2026-11-24T15:19:27+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -859,6 +859,20 @@
    "napomena": "",
    "wall": 1795525355484,
    "id": "p145004"
+  },
+  {
+   "t": 19020.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Mi smo ružni, a vi ste lepi.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom poslaniku na uvredljiv način.",
+   "wall": 1795529875024,
+   "id": "a190200"
   }
  ]
 }
