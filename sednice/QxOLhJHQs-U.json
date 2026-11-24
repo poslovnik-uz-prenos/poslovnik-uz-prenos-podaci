@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T11:31:10+0100",
+ "generisano": "2026-11-24T11:32:18+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -51,16 +51,58 @@
    "id": "p53535"
   },
   {
-   "t": 5359.34,
+   "t": 5391.9,
    "tip": "clan",
-   "govornik": "govornik nije prepoznat",
+   "govornik": "Vladimir Đukanović",
    "vrsta": "povreda Poslovnika",
    "clanovi": [],
-   "kontekst": "zato što pravite hajdučku skupštinu u pravom smislu te reči i grubo ste povredili poslovnik zato što ste lagali javnost.",
+   "kontekst": "zato što pravite hajdučku skupštinu u pravom smislu te reči i grubo ste povredili poslovnik zato što ste lagali javnost. i ja vas molim da se izvinite javnosti, da ispraznite galeriju gore ili da nam pokažete dopis tog fakulteta koji je zatražio da njegovi studenti budu gore na galeriji.",
    "odluka": "",
    "napomena": "",
-   "wall": 1795516214364,
-   "id": "p53593"
+   "wall": 1795516246924,
+   "id": "p53919"
+  },
+  {
+   "t": 5391.9,
+   "tip": "moguca",
+   "govornik": "Vladimir Đukanović",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "zato što pravite hajdučku skupštinu u pravom smislu te reči",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnog naziva za instituciju.",
+   "wall": 1795516246924,
+   "id": "a53919"
+  },
+  {
+   "t": 5395.82,
+   "tip": "moguca",
+   "govornik": "Vladimir Đukanović",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "zato što ste lagali javnost.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza.",
+   "wall": 1795516250844,
+   "id": "a53958"
+  },
+  {
+   "t": 5486.7,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    96
+   ],
+   "kontekst": "kao član 96 stav 4 poslovnika.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795516341724,
+   "id": "p54867"
   }
  ]
 }
