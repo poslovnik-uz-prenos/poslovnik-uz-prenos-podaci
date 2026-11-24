@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T15:46:15+0100",
+ "generisano": "2026-11-24T15:47:22+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -929,6 +929,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'parazitski sloj'.",
    "wall": 1795530846004,
    "id": "a199909"
+  },
+  {
+   "t": 20658.7,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Pa se može reći da se njegova uloga svela na protočni bojler.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnog izraza za Odbor.",
+   "wall": 1795531513724,
+   "id": "a206587"
   }
  ]
 }
