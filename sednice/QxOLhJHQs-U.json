@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:54:37+0100",
+ "generisano": "2026-11-24T12:55:42+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -509,6 +509,34 @@
    "obrazlozenje": "Moguća je upotreba uvredljivih izraza i neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
    "wall": 1795521152024,
    "id": "a102970"
+  },
+  {
+   "t": 10380.82,
+   "tip": "moguca",
+   "govornik": "Sanja Fric",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kada ste me iz iste vi izbacili, zato što sam štitila interese Republike Srbije, za razliku od vas.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku na uvredljiv način.",
+   "wall": 1795521235844,
+   "id": "a103808"
+  },
+  {
+   "t": 10380.82,
+   "tip": "moguca",
+   "govornik": "Sanja Fric",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "U poslednje dve godine, vi, vaši poslušnici i vaši mediji,",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća upotreba pogrdnog naziva 'poslušnici'.",
+   "wall": 1795521235844,
+   "id": "a103808_1"
   },
   {
    "t": 10381.98,
