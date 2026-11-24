@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:32:02+0100",
+ "generisano": "2026-11-24T12:33:05+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -357,6 +357,20 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
    "wall": 1795519216244,
    "id": "a83612"
+  },
+  {
+   "t": 9065.72,
+   "tip": "clan",
+   "govornik": "Željko Hubač",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    106
+   ],
+   "kontekst": "Povrata poslovnika član 106. Želim samo kratko da primetim da je prethodni govornik učinio nešto neverovatno. Na temu odbora nije čak ni pomenuo reč odbor.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795519920744,
+   "id": "p90657"
   }
  ]
 }
