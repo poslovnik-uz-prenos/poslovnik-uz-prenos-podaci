@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:04:15+0100",
+ "generisano": "2026-11-24T13:05:21+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -591,6 +591,20 @@
    "obrazlozenje": "Moguća je povreda dostojanstva Narodne skupštine neposrednim obraćanjem poslanicima na uvredljiv način.",
    "wall": 1795521765344,
    "id": "a109103"
+  },
+  {
+   "t": 10957.32,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Hoću stan u Beogradu. I kada su odbili da vam daju stan u Beogradu, neću da kažem za koga, jer za razliku od vas ja porodicu poštujem, neću da kažem za kome je taj stan bio namenjen, kada su odbili da vam daju stan, e tada je bilo, napadamo Rio Tinto.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku na uvredljiv način, insinuirajući korupciju i nepoštovanje porodice.",
+   "wall": 1795521812344,
+   "id": "a109573"
   }
  ]
 }
