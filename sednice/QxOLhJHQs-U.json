@@ -4,7 +4,22 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T10:03:26+0100",
+ "generisano": "2026-11-24T10:04:28+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
- "dogadjaji": []
+ "dogadjaji": [
+  {
+   "t": 141.94,
+   "tip": "clan",
+   "govornik": "Milenko Jovanov",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    27
+   ],
+   "kontekst": "predsedniče, pozivam vas da u skladu sa članom 27 koji kaže da predsednik Narodne skupštine predstavlja Narodnu skupštinu, saziva njene sednice Hvala vam. predsedavanjima i vrši druge poslove. Pozovete narodne poslanike da minutom čutanja",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795510996964,
+   "id": "p1419"
+  }
+ ]
 }
