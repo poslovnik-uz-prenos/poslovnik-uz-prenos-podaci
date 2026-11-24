@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:05:21+0100",
+ "generisano": "2026-11-24T13:06:24+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -605,6 +605,20 @@
    "obrazlozenje": "Moguće je neposredno obraćanje drugom narodnom poslaniku na uvredljiv način, insinuirajući korupciju i nepoštovanje porodice.",
    "wall": 1795521812344,
    "id": "a109573"
+  },
+  {
+   "t": 11033.52,
+   "tip": "moguca",
+   "govornik": "Dr Marina Nedeljković",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "niti vaša milostinja, niti vaša nadmenost.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza.",
+   "wall": 1795521888544,
+   "id": "a110335"
   }
  ]
 }
