@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:43:54+0100",
+ "generisano": "2026-11-24T12:44:58+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -427,6 +427,20 @@
    "obrazlozenje": "Moguća je upotreba pogrdnog izraza.",
    "wall": 1795520499684,
    "id": "a96446"
+  },
+  {
+   "t": 9771.5,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "o te kako je lepo biti glup, i ja je pelam svako jutro,",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza.",
+   "wall": 1795520626524,
+   "id": "a97715"
   }
  ]
 }
