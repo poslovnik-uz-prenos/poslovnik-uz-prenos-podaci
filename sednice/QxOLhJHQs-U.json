@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:57:54+0100",
+ "generisano": "2026-11-24T12:58:56+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -549,6 +549,34 @@
    "napomena": "",
    "wall": 1795521237004,
    "id": "p103819"
+  },
+  {
+   "t": 10586.52,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "vas tiče, nikada vam nisam pretio pojma, nisu imani koste vi do skora.",
+   "pouzdanost": "niska",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795521441544,
+   "id": "a105865"
+  },
+  {
+   "t": 10586.52,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Međutim, vi ste obmanuli javnost.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "wall": 1795521441544,
+   "id": "a105865_1"
   }
  ]
 }
