@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:02:03+0100",
+ "generisano": "2026-11-24T12:03:08+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -173,6 +173,18 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'antidemokratsko opredeljenje' u neposrednom obraćanju.",
    "wall": 1795517504164,
    "id": "a66491"
+  },
+  {
+   "t": 7266.62,
+   "tip": "clan",
+   "govornik": "Sara Valentik",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Slobodno možete da reklamirate poslovnik, ali ne smete da skačete i da u glas govorite, niste dobili reč. Dakle, ovo nije... Ja ću pogledati svaku reč koja je ovde napisana. Ja ću pogledat...",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795518121644,
+   "id": "p72666"
   }
  ]
 }
