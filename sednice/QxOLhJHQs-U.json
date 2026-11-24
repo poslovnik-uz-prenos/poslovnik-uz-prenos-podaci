@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:47:20+0100",
+ "generisano": "2026-11-24T13:48:24+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -733,6 +733,20 @@
    "napomena": "",
    "wall": 1795523684184,
    "id": "p128291"
+  },
+  {
+   "t": 13571.82,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Laž do laži.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'laž do laži'.",
+   "wall": 1795524426844,
+   "id": "a135718"
   }
  ]
 }
