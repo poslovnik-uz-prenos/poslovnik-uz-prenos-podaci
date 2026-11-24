@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:41:40+0100",
+ "generisano": "2026-11-24T12:42:49+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -399,6 +399,34 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku.",
    "wall": 1795520368784,
    "id": "a95137"
+  },
+  {
+   "t": 9575.08,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kumovi i prijatelji su dobijali najveće poslove koji se isplaćuju iz budžeta i tako su dobili veliki broj milionera.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva Narodne skupštine iznošenjem optužbi o korupciji bez dokaza.",
+   "wall": 1795520430104,
+   "id": "a95750"
+  },
+  {
+   "t": 9644.66,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "za kupovinu poslaničkih mrdata",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je upotreba pogrdnog izraza.",
+   "wall": 1795520499684,
+   "id": "a96446"
   }
  ]
 }
