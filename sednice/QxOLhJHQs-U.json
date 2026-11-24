@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:24:43+0100",
+ "generisano": "2026-11-24T13:25:48+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -633,6 +633,37 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku.",
    "wall": 1795522115704,
    "id": "a112606"
+  },
+  {
+   "t": 12220.68,
+   "tip": "clan",
+   "vrsta": "opomena",
+   "mera": true,
+   "kome": "",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "clanovi": [
+    109
+   ],
+   "clanovi_tekst": "čl. 109",
+   "kontekst": "Prošli put niste bili. Dakle, ne moramo završiti građavinski papuret. Ja vam izričem opomenu. Imali ste upozorenje i sada ste nastavili i opet ste se obratili",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795523075704,
+   "id": "p122206"
+  },
+  {
+   "t": 12256.4,
+   "tip": "clan",
+   "govornik": "Aleksandar Vučić (procena)",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "Po kojem god hoćete, po poslovniku, član 107. Dakle, o što ste sada uradili, prekinuli ste, gospodin Kuburović, u trenutku kada je radila isto ono što su radili i gospoda Đaj. i gospođo Fritz.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795523111424,
+   "id": "p122564"
   }
  ]
 }
