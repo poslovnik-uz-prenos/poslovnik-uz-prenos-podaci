@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:51:35+0100",
+ "generisano": "2026-11-24T13:52:38+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -763,12 +763,28 @@
    "id": "a137347"
   },
   {
+   "t": 13773.36,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Nećete urinirati po nama.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795524628384,
+   "id": "a137733"
+  },
+  {
    "t": 13820.8,
    "tip": "clan",
    "govornik": "govornik nije prepoznat",
    "vrsta": "povreda Poslovnika",
-   "clanovi": [],
-   "kontekst": "Stefan Krkobavić je, ako je samo po povredi poslovnika, A vi ste poredo se da imamo povredu poslanika?",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "Stefan Krkobavić je, ako je samo po povredi poslovnika, A vi ste poredo se da imamo povredu poslanika? Vera Radović, ali po povredi poslovnika ili... Da, da, da, ali imamo povredu poslovnika koja ima prednost. Tako sam pustio i vašeg kolegu. Povreda poslovnika ima prednost. Jesu povreda poslovnika.",
    "odluka": "",
    "napomena": "",
    "wall": 1795524675824,
