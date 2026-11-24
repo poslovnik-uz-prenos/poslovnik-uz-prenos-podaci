@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T15:33:22+0100",
+ "generisano": "2026-11-24T15:34:26+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -887,6 +887,34 @@
    "obrazlozenje": "Moguća povreda dostojanstva zbog neposrednog obraćanja poslanicima na uvredljiv način.",
    "wall": 1795530236144,
    "id": "a193811"
+  },
+  {
+   "t": 19893.08,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Dakle, ko zna koji put smo slušali ne samo besmislice, već i ogoljene laži",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'besmislice' i 'ogoljene laži' u kontekstu tuđeg izlaganja.",
+   "wall": 1795530748104,
+   "id": "a198930"
+  },
+  {
+   "t": 19907.96,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ali to je već manjer i navika diktatorskog režima da sve provodi na takav način.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'diktatorskog režima'.",
+   "wall": 1795530762984,
+   "id": "a199079"
   }
  ]
 }
