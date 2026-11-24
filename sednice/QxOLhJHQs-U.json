@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:09:33+0100",
+ "generisano": "2026-11-24T13:10:37+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -619,6 +619,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza.",
    "wall": 1795521888544,
    "id": "a110335"
+  },
+  {
+   "t": 11260.68,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "nemojte spuštati glavu i gledati u telefone ispod klupa dok to govorim.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku.",
+   "wall": 1795522115704,
+   "id": "a112606"
   }
  ]
 }
