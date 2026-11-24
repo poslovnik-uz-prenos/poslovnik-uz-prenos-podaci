@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:04:13+0100",
+ "generisano": "2026-11-24T12:05:22+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -185,6 +185,20 @@
    "napomena": "",
    "wall": 1795518121644,
    "id": "p72666"
+  },
+  {
+   "t": 7323.22,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "a onda sam shvatio da je u pitanju još jedan pokvareni trik za koje je zaslužila neopomenu već isključenje sasebnice, gospođo Valentik.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'pokvareni trik' i predlogom za isključenje, uz direktno obraćanje poslanici.",
+   "wall": 1795518178244,
+   "id": "a73232"
   }
  ]
 }
