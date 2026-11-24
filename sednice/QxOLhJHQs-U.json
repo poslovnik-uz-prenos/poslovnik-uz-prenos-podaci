@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:31:10+0100",
+ "generisano": "2026-11-24T13:32:14+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -679,6 +679,20 @@
    "napomena": "",
    "wall": 1795523286144,
    "id": "p124311"
+  },
+  {
+   "t": 12620.34,
+   "tip": "clan",
+   "govornik": "govornik nije prepoznat",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "Niste se razumeli, ja sam vam rekao poslovnik član 107 i to su počeli da me prekidaju, njih sam zamolio da prekinu. Okej, koji stav? Član 107. Član 107, dobro. Dobro. Član 101. Ja sam zamolio moje kolege...",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795523475364,
+   "id": "p126203"
   }
  ]
 }
