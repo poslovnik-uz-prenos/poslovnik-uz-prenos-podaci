@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:51:24+0100",
+ "generisano": "2026-11-24T12:52:27+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -455,6 +455,32 @@
    "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način, uz iznošenje činjenica koje se odnose na privatni život.",
    "wall": 1795520654584,
    "id": "a97995"
+  },
+  {
+   "t": 10238.72,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    103
+   ],
+   "kontekst": "Tako je. Povreda poslovnika član 103 u odnosu na 104 u vredljivo izlaganje prema poslaniku.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795521093744,
+   "id": "p102387"
+  },
+  {
+   "t": 10245.9,
+   "tip": "clan",
+   "govornik": "Imre Krizmanić",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Izvinite, ovo nije povreda poslovnika. Rekli ste povreda poslovnika. Tako je, moram da odgovorim zašto me je prozvao i uredio. To je već replika. Ja se izvinjam, to je replika. To je replika. To nije povreda poslovnika. Morat ću da vam oduzmem reč. Izvinite, javite se za repliku.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795521100924,
+   "id": "p102459"
   }
  ]
 }
