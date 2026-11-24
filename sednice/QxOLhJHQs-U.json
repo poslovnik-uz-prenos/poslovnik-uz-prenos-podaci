@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:50:30+0100",
+ "generisano": "2026-11-24T13:51:35+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -747,6 +747,32 @@
    "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'laž do laži'.",
    "wall": 1795524426844,
    "id": "a135718"
+  },
+  {
+   "t": 13734.7,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "pozvao na uriniranje po narodnim poslanicima, samo zato što ne pripadaju",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795524589724,
+   "id": "a137347"
+  },
+  {
+   "t": 13820.8,
+   "tip": "clan",
+   "govornik": "govornik nije prepoznat",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Stefan Krkobavić je, ako je samo po povredi poslovnika, A vi ste poredo se da imamo povredu poslanika?",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795524675824,
+   "id": "p138208"
   }
  ]
 }
