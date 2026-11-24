@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T14:02:13+0100",
+ "generisano": "2026-11-24T14:03:20+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -845,6 +845,20 @@
    "obrazlozenje": "Moguća je uvreda dostojanstva zbog iznošenja činjenica o privatnom životu drugih lica.",
    "wall": 1795525170084,
    "id": "a143150"
+  },
+  {
+   "t": 14500.46,
+   "tip": "clan",
+   "govornik": "Miroslav Andrić (procena)",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    104
+   ],
+   "kontekst": "Gospodine predsjedniče povreda poslovnika, radi se o članu 104, stav 2 i stav 3. Stav 2 kaže, ako se u vredniji izrazi odnose na poslovničku grupu, odnosno na političku stranku itd., u ime poslovničke grupe",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795525355484,
+   "id": "p145004"
   }
  ]
 }
