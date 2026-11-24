@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T11:30:07+0100",
+ "generisano": "2026-11-24T11:31:10+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -34,6 +34,33 @@
    "napomena": "",
    "wall": 1795516078524,
    "id": "p52235"
+  },
+  {
+   "t": 5353.58,
+   "tip": "clan",
+   "govornik": "Predsedavajući Aleksandar Čupić",
+   "vrsta": "pomen člana",
+   "clanovi": [
+    27,
+    107
+   ],
+   "kontekst": "Reklamiram povredu poslovnika člana 27, kao i člana 107 od ustojanstva u parlamenta,",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795516208604,
+   "id": "p53535"
+  },
+  {
+   "t": 5359.34,
+   "tip": "clan",
+   "govornik": "govornik nije prepoznat",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "zato što pravite hajdučku skupštinu u pravom smislu te reči i grubo ste povredili poslovnik zato što ste lagali javnost.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795516214364,
+   "id": "p53593"
   }
  ]
 }
