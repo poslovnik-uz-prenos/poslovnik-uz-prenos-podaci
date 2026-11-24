@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T12:40:37+0100",
+ "generisano": "2026-11-24T12:41:40+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -371,6 +371,34 @@
    "napomena": "",
    "wall": 1795519920744,
    "id": "p90657"
+  },
+  {
+   "t": 9510.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "Pa gospodo, Srbija ima najviše kockarnica u Evropi.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je digresija o broju kockarnica u Srbiji, što možda nije direktno povezano sa tačkom dnevnog reda.",
+   "wall": 1795520365024,
+   "id": "a95100"
+  },
+  {
+   "t": 9513.76,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Gospodin Đukanović, poslednje upozorenje. Lično se obraćate, govorite bez reči.",
+   "pouzdanost": "niska",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku.",
+   "wall": 1795520368784,
+   "id": "a95137"
   }
  ]
 }
