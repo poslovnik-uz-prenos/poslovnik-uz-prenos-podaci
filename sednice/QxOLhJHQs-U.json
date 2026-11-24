@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:27:57+0100",
+ "generisano": "2026-11-24T13:29:00+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -664,6 +664,21 @@
    "napomena": "",
    "wall": 1795523111424,
    "id": "p122564"
+  },
+  {
+   "t": 12431.12,
+   "tip": "clan",
+   "govornik": "Vladimir Đukanović (procena)",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    27,
+    107
+   ],
+   "kontekst": "Zahvaljujem se. Ja reklamiram povrdu poslanika na član 27, kao i naravno član 107. Grubo je ovde povređeno i dostojanstvo, ali i vi ste vodili sednicu onako kako ne biste smeli da vodite, jer ako se držimo strogo toga da se držimo teme, što je narodni poslanik dužan prilikom svog ogovora. Vi nisto pomenu...",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795523286144,
+   "id": "p124311"
   }
  ]
 }
