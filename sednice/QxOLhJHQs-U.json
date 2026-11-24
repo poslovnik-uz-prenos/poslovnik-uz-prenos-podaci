@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T11:48:21+0100",
+ "generisano": "2026-11-24T11:49:25+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -131,6 +131,34 @@
    "obrazlozenje": "Moguća povreda jer se govori o događajima koji nisu na dnevnom redu.",
    "wall": 1795517125024,
    "id": "a62700"
+  },
+  {
+   "t": 6396.5,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "i da onda kao kalimero se žali na sve.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnog naziva 'kalimero'.",
+   "wall": 1795517251524,
+   "id": "a63965"
+  },
+  {
+   "t": 6406.06,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "ali se žalim na to što je ljudima širom Srbije ugrožena bezbednost i što lete bombe po dvorištima ljudi po kućama u Srbiji ni krivim ni dužnim.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je duža digresija o opštoj bezbednosti i bacanju bombi, što nije direktno vezano za tačku dnevnog reda.",
+   "wall": 1795517261084,
+   "id": "a64060"
   }
  ]
 }
