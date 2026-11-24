@@ -4,7 +4,7 @@
  "naslov": "",
  "rezim": "uzivo",
  "pocetakWall": 1795510855024,
- "generisano": "2026-11-24T13:58:59+0100",
+ "generisano": "2026-11-24T14:00:03+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -803,6 +803,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
    "wall": 1795524794904,
    "id": "a139398"
+  },
+  {
+   "t": 14241.5,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ukazao bih vam, gospodin Čupiću, na nešto što sam uspio da pronađem moj svom telefonu.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku.",
+   "wall": 1795525096524,
+   "id": "a142415"
   }
  ]
 }
