@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:19:59+0100",
+ "generisano": "2026-11-25T10:21:03+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -76,6 +76,20 @@
    "obrazlozenje": "Moguća je upotreba pogrdnog naziva 'batinaš'.",
    "wall": 1795598313346,
    "id": "a10925"
+  },
+  {
+   "t": 1208.4,
+   "tip": "clan",
+   "govornik": "Vjerica Radeta",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    127
+   ],
+   "kontekst": "koliko nemate obraza, koliko nemate član 127 obaveza predsednika Narodne skupštine da vodi računa o radu i redu na Narodne skupštine. Dakle, mi smo nekoliko sekundi pre vašeg aplauza ustali Hvala vam.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795598429186,
+   "id": "p12084"
   }
  ]
 }
