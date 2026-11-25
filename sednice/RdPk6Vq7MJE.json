@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:21:03+0100",
+ "generisano": "2026-11-25T10:22:06+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -78,6 +78,20 @@
    "id": "a10925"
   },
   {
+   "t": 1200.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi ste kao poslanička grupa malo prepokazali koliko ste nemoralni,",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'nemoralni'.",
+   "wall": 1795598420786,
+   "id": "a12000"
+  },
+  {
    "t": 1208.4,
    "tip": "clan",
    "govornik": "Vjerica Radeta",
@@ -85,7 +99,7 @@
    "clanovi": [
     127
    ],
-   "kontekst": "koliko nemate obraza, koliko nemate član 127 obaveza predsednika Narodne skupštine da vodi računa o radu i redu na Narodne skupštine. Dakle, mi smo nekoliko sekundi pre vašeg aplauza ustali Hvala vam.",
+   "kontekst": "koliko nemate obraza, koliko nemate član 127 obaveza predsednika Narodne skupštine da vodi računa o radu i redu na Narodne skupštine. Dakle, mi smo nekoliko sekundi pre vašeg aplauza ustali Hvala vam. i na vaš predlog da li odali minut ćutanja Milanu Jovanoviću. Ja se izvinjam, moram da vas prekinem.",
    "odluka": "",
    "napomena": "",
    "wall": 1795598429186,
