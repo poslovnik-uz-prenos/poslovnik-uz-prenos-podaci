@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:50:42+0100",
+ "generisano": "2026-11-25T10:51:49+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -200,6 +200,20 @@
    "obrazlozenje": "Moguća je upotreba pogrdnog izraza 'ovakve' za druge poslanike.",
    "wall": 1795600060426,
    "id": "a28396"
+  },
+  {
+   "t": 3028.76,
+   "tip": "clan",
+   "govornik": "Igor Mikitišin (procena)",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "samo po kojoj osnovu. član 107 povredna poslanica. Ne može, 107 je već bilo. Ja repliku. Imam repliku. Na povredu poslanika. Može, može, izvinite. Pitajte, gospodin Miru, direktno sam",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795600249546,
+   "id": "p30287"
   }
  ]
 }
