@@ -4,7 +4,22 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:11:26+0100",
+ "generisano": "2026-11-25T10:12:30+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
- "dogadjaji": []
+ "dogadjaji": [
+  {
+   "t": 677.74,
+   "tip": "clan",
+   "govornik": "Aleksandar Vučić",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    107
+   ],
+   "kontekst": "Za razliku od prethodnog govornika, ja ću pomenuti član poslovnika na koji se pozivam, član 107. stav 1. Prvi, imam uz to što sam zaprepašćen činjenicom. da vi niste hteli da pravite neprijatnosti povodom minuta čutanja zbog upokojenja Mitropolita Bačkog ili Vladike Bačkog i Reneja Bulovića.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795597898526,
+   "id": "p6777"
+  }
+ ]
 }
