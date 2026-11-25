@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T11:14:25+0100",
+ "generisano": "2026-11-25T11:15:31+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -214,6 +214,34 @@
    "napomena": "",
    "wall": 1795600249546,
    "id": "p30287"
+  },
+  {
+   "t": 4378.96,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "što nikada u Čoporu nisam nikoga tukao, nikada nekoga ko leži na zemlji nisam udario za ceo svoj život",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom poslaniku na uvredljiv način, implicirajući nasilje.",
+   "wall": 1795601599746,
+   "id": "a43789"
+  },
+  {
+   "t": 4378.96,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "između mene i onih koji u Čoporu vodite da bi vam podršku pružali.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće korišćenje pogrdnog naziva 'Čopor' za druge poslanike.",
+   "wall": 1795601599746,
+   "id": "a43789_1"
   }
  ]
 }
