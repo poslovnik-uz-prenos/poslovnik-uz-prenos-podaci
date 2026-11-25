@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:45:22+0100",
+ "generisano": "2026-11-25T10:46:26+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -172,6 +172,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
    "wall": 1795598864446,
    "id": "a16436"
+  },
+  {
+   "t": 2670.0,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vidim da je ovaj batinaš, jer su lagali da nije batinaš, pravi batinaš, dva puta hapšen zbog svega toga, je ostao ovde.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'batinaš'.",
+   "wall": 1795599890786,
+   "id": "a26700"
   }
  ]
 }
