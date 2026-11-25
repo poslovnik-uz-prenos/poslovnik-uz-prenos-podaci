@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:23:13+0100",
+ "generisano": "2026-11-25T10:24:17+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -110,7 +110,9 @@
    "tip": "clan",
    "govornik": "govornik nije prepoznat",
    "vrsta": "povreda Poslovnika",
-   "clanovi": [],
+   "clanovi": [
+    107
+   ],
    "kontekst": "narodni poslovnik Aleksandar Vučić upotrebio je izraz za narodne posle. nazivajući ih kretenima. Na to ste morali da reagujete. Dakle, to je jedna flagrantna uvreda koju ne smemo da tolerišemo u ovom domu ukoliko želimo da menjamo lice istog. Takođe, pošto znam ko se nalazi u ovom delu galerije,",
    "odluka": "",
    "napomena": "",
