@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:14:36+0100",
+ "generisano": "2026-11-25T10:15:44+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -34,6 +34,20 @@
    "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom pogrdnog naziva 'navijačka grupa zvana Plenum'.",
    "wall": 1795597970786,
    "id": "a7500"
+  },
+  {
+   "t": 860.14,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "sa kakvim kretenima mi imamo posla.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
+   "wall": 1795598080926,
+   "id": "a8601"
   }
  ]
 }
