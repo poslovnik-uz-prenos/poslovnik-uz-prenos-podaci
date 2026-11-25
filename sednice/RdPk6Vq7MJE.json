@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:24:17+0100",
+ "generisano": "2026-11-25T10:25:20+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -118,6 +118,18 @@
    "napomena": "",
    "wall": 1795598563846,
    "id": "p13430"
+  },
+  {
+   "t": 1445.5,
+   "tip": "clan",
+   "govornik": "Vladimir Đukanović",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Znači dužni ste da ih ovog sekunda, sada, izbacite napolje. Iste sekunde, znači ili flagrantno kršite poslovnik. Zaista ovo nema nikakvog smisla što radite.",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795598666286,
+   "id": "p14455"
   }
  ]
 }
