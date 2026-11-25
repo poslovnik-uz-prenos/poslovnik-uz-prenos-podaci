@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:26:24+0100",
+ "generisano": "2026-11-25T10:27:28+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -144,6 +144,20 @@
    "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza 'huligani'.",
    "wall": 1795598681866,
    "id": "a14610"
+  },
+  {
+   "t": 1506.64,
+   "tip": "moguca",
+   "govornik": "Vladimir Đukanović",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ponašate se tiranski, ponašate se diktatorski, dovodite publiku da nas ovde vređa",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza i neposrednim obraćanjem.",
+   "wall": 1795598727426,
+   "id": "a15066"
   }
  ]
 }
