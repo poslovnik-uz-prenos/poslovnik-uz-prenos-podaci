@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:48:35+0100",
+ "generisano": "2026-11-25T10:49:39+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -186,6 +186,20 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'batinaš'.",
    "wall": 1795599890786,
    "id": "a26700"
+  },
+  {
+   "t": 2839.64,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Možete da uvedete i ovakve u ovaj visoki dom. Samo što ljudi moraju da znaju koga ste uveli, zašto ste uveli",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnog izraza 'ovakve' za druge poslanike.",
+   "wall": 1795600060426,
+   "id": "a28396"
   }
  ]
 }
