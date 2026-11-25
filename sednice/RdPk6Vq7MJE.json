@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:15:44+0100",
+ "generisano": "2026-11-25T10:16:48+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -48,6 +48,18 @@
    "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza.",
    "wall": 1795598080926,
    "id": "a8601"
+  },
+  {
+   "t": 960.0,
+   "tip": "clan",
+   "govornik": "Aleksandra Kovanova (procena)",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "Ju, slučajno, ja se izvinjam. Po poslovniku Jovana Devetaković. I vi ste. Vladimir Đukanović. Izvinite, ja čitam ono što ovde dobijam. Oprostim. Ne kao...",
+   "odluka": "",
+   "napomena": "",
+   "wall": 1795598180786,
+   "id": "p9600"
   }
  ]
 }
