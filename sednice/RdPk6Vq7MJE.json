@@ -4,7 +4,7 @@
  "naslov": "Sednica, 25. 11. 2026.",
  "rezim": "uzivo",
  "pocetakWall": 1795597220786,
- "generisano": "2026-11-25T10:13:33+0100",
+ "generisano": "2026-11-25T10:14:36+0100",
  "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
  "dogadjaji": [
   {
@@ -20,6 +20,20 @@
    "napomena": "",
    "wall": 1795597898526,
    "id": "p6777"
+  },
+  {
+   "t": 750.0,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Želite da nam kažete da će navijačka grupa zvana Plenum da kontroliše nas ovde svakoga dana",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je uvreda dostojanstva upotrebom pogrdnog naziva 'navijačka grupa zvana Plenum'.",
+   "wall": 1795597970786,
+   "id": "a7500"
   }
  ]
 }
