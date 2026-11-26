@@ -1,0 +1,411 @@
+{
+ "verzija": 1,
+ "videoId": "CIoj5_Wgg_4",
+ "naslov": "Prva sednica 15. saziva, četvrti dan (deo 5)",
+ "rezim": "snimak",
+ "generisano": "2026-11-24T22:02:55+0100",
+ "izvor": "Automatski transkript (Whisper); NIJE zvanična stenografska beleška.",
+ "dogadjaji": [
+  {
+   "t": 11.12,
+   "tip": "clan",
+   "govornik": "Ana Brnabić",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [
+    108
+   ],
+   "kontekst": "Poslovnik, da, ponovo povreda poslovnika, član 108, ponovo, ne znam po koji put, vi se starate o redu Narodnoj skupštini. Dakle, narodna poslanica studentske liste je sve nas ovde nazvala mafijo. vi niste našli za shodno da ju date opomenu. Dakle, ponovo ste ovde delili opomene levom i desnom rukom,",
+   "odluka": "",
+   "napomena": "",
+   "id": "p111"
+  },
+  {
+   "t": 54.7,
+   "tip": "moguca",
+   "govornik": "Ana Brnabić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ali smo mi mafija.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivog izraza 'mafija'.",
+   "id": "a547"
+  },
+  {
+   "t": 130.6,
+   "tip": "moguca",
+   "govornik": "Vjerica Radeta",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "pa nismo ni razumeli koliko zapravo ništa ne znaju. E, danas su mnogi govorili i danas smo shvatili da zaista ništa ne znaju",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća uvreda dostojanstva zbog omalovažavanja znanja poslanika.",
+   "id": "a1306"
+  },
+  {
+   "t": 187.02,
+   "tip": "moguca",
+   "govornik": "Vjerica Radeta",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "slušajte me, gospodjo Mirjana, ostavite predsednika da me sluša.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku.",
+   "id": "a1870"
+  },
+  {
+   "t": 328.28,
+   "tip": "moguca",
+   "govornik": "Miloš Vučević",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Niko nije ni moljakao, ni kukao što nemamo mesto podpredsednika, ukazali smo da se to nikada nije desilo u Slobodanom Miloševiće pa na ovom.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je povreda dostojanstva upotrebom izraza 'moljakao' i 'kukao' u kontekstu političke rasprave.",
+   "id": "a3282"
+  },
+  {
+   "t": 510.58,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A mi smo voda države pištolje nad glavama pritiskali, ucenjivali, a onda oni tako zbunjeni, neobrazovani, nedostojni, sluđeni su glasali greškom.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza poput 'zbunjeni, neobrazovani, nedostojni, sluđeni' za glasače.",
+   "id": "a5105"
+  },
+  {
+   "t": 529.7,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "vi boga ne volite mnogo",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća uvreda dostojanstva zbog neposrednog obraćanja i uvredljivog izraza.",
+   "id": "a5297"
+  },
+  {
+   "t": 554.08,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi, gospodine iz Lazarevca, jedva čekam da to saopšte vaša vlada, MMF-u i ostalim kad vam dođu na razgovore",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku.",
+   "id": "a5540"
+  },
+  {
+   "t": 590.42,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Pa ljudi su vas birali da vodite državu, a ne da se sklonite u stranu i da puštate da mafija",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća uvreda dostojanstva zbog neposrednog obraćanja poslaniku na uvredljiv način.",
+   "id": "a5904"
+  },
+  {
+   "t": 600.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "a vi ulazite u vođenje države, ne dobrim za državu.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća uvreda dostojanstva zbog neposrednog obraćanja poslaniku na uvredljiv način.",
+   "id": "a6000"
+  },
+  {
+   "t": 685.66,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    106
+   ],
+   "kategorija": "moguće van teme",
+   "citat": "A da vi nama ovde pričate, vi ćete da menjate zakon o radu, vi ćete da pravite raspored odbora, dajte, molim vas, čuo i pričate.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda jer se govornik udaljava od teme dnevnog reda, kritikujući opšte ponašanje skupštine umesto da govori o konkretnoj tački.",
+   "id": "a6856"
+  },
+  {
+   "t": 788.12,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "i nije vas sramotao uopšte da prećutite to bez bilo kakvog srama",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'nije vas sramota'.",
+   "id": "a7881"
+  },
+  {
+   "t": 952.66,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "I još jednom moram da kažem da je velika razlika između studentske liste i Ujedinjene Srbije.",
+   "pouzdanost": "niska",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku.",
+   "id": "a9526"
+  },
+  {
+   "t": 1046.16,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "najviše strpali u svoje džepove, oni su uvek najnezadovoljniji, ne bili proverili da li ima neko da je uzeo malo više.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza koji implicira nepoštenje i ličnu korist.",
+   "id": "a10461"
+  },
+  {
+   "t": 1052.2,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "kolika je to glad da vrše reviziju svega, pa da kažu to što sam ja uzeo 200.000 evra nije bilo dovoljno",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'glad' i insinuacijom na ličnu pohlepu.",
+   "id": "a10522"
+  },
+  {
+   "t": 1100.62,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Što se tiče ulice, niste se vi borili na ulici, već na uličarski način.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom pogrdnog izraza 'uličarski način'.",
+   "id": "a11006"
+  },
+  {
+   "t": 1214.1,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Nisam razumeo potrebu da dovodite navijača, onda sam razumeo da je u redu da prisustuje, dok u kasnim popodnevnim satima više nisu mogli da kriju svoju strast i počeli da navijaju sa ove galerije, što nije baš imalo mnogo smisla i nije bilo naročito pristojno",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva Narodne skupštine opisivanjem prisutnih kao 'navijača' koji 'navijaju' i čije ponašanje 'nije bilo naročito pristojno'.",
+   "id": "a12141"
+  },
+  {
+   "t": 1362.46,
+   "tip": "moguca",
+   "govornik": "Predsedavajući Aleksandar Čupić (procena)",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Nikako da se pojavi neko ko je nešto sam napravio u životu, neko ko nije parazit, neko ko bi mogao nešto drugo.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'parazit' za druge poslanike.",
+   "id": "a13624"
+  },
+  {
+   "t": 1415.0,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "od kada radite u državnoj službi, parazitski, od kada ste to imali veća primanja i veću platu.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba uvredljivog izraza 'parazitski' za opis rada u državnoj službi.",
+   "id": "a14150"
+  },
+  {
+   "t": 1563.86,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ne znam kako ćete da slažete i obmanete plenume i sve druge",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom izraza 'slažete i obmanete'.",
+   "id": "a15638"
+  },
+  {
+   "t": 1670.82,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Vi ste džavoli, ne možete da imate podpredsednika.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom pogrdnog izraza.",
+   "id": "a16708"
+  },
+  {
+   "t": 1770.14,
+   "tip": "moguca",
+   "govornik": "govornik nije prepoznat",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Imate ljudi sa takozvanim rajinskim mentalitetom, takozvanim kmeckim dušama, imate takvih ljudi i oni to vole.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća je upotreba pogrdnih izraza 'rajinskim mentalitetom' i 'kmeckim dušama'.",
+   "id": "a17701"
+  },
+  {
+   "t": 1776.88,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Sve ko od vas je prevare i laže. Absolutno sve.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća upotreba uvredljivih izraza i neposredno obraćanje poslanicima.",
+   "id": "a17768"
+  },
+  {
+   "t": 1813.48,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "A kakve veze frizeri imaju sa odborom za budžete? Možete li da mi objasnite kakve veze?",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje poslaniku na uvredljiv način, dovodeći u pitanje njegovu stručnost.",
+   "id": "a18134"
+  },
+  {
+   "t": 1879.62,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Mi smo ne ljudi, gnjide, organizovana kriminalna grupa, džubrad, šta god hoćete, pa zato od nas ne treba da prihvatite ni ruku.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva upotrebom uvredljivih izraza kao što su 'gnjide' i 'džubrad'.",
+   "id": "a18796"
+  },
+  {
+   "t": 1931.56,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "To je posledica vinjaka, pustite to, ne zameram u ja ništa.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća je uvreda dostojanstva zbog pominjanja konzumacije alkohola u kontekstu gestikulacije drugog poslanika.",
+   "id": "a19315"
+  },
+  {
+   "t": 1995.24,
+   "tip": "clan",
+   "govornik": "Aleksandar Vučić",
+   "vrsta": "povreda Poslovnika",
+   "clanovi": [],
+   "kontekst": "ali se niste javljali po povredi poslovnika, ali ste istovremeno meni prebacivali to što pijem običnu vodu. Istovremeno ste, kada se davala pošta i minuć utanja, što bih rekao najveće me ruditi od svih naših vladika, Mitropolitu Bačkom Irineju, upokojenom danas, da su neki od vaših poslovnika",
+   "odluka": "",
+   "napomena": "",
+   "id": "p19952"
+  },
+  {
+   "t": 2028.14,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Ne mogu sledvenici ili oni koji misle da je Alojzija Stepinac isto što i vladika Nikolaj,",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguće neposredno obraćanje drugom narodnom poslaniku na uvredljiv način.",
+   "id": "a20281"
+  },
+  {
+   "t": 2321.56,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "Posisali ste svu pamet ovog sveta, sve znate najbolje, jedino što ste doneli odluku to je mi ćemo da progonimo sve i svakoga.",
+   "pouzdanost": "srednja",
+   "obrazlozenje": "Moguća uvreda dostojanstva upotrebom izraza 'Posisali ste svu pamet ovog sveta'.",
+   "id": "a23215"
+  },
+  {
+   "t": 2429.82,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "ne ljutite se što ću vam to reći, koliko manje znate od onoga kako ste se predstavljali.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva Narodne skupštine upotrebom uvredljivih izraza.",
+   "id": "a24298"
+  },
+  {
+   "t": 2454.08,
+   "tip": "moguca",
+   "govornik": "Aleksandar Vučić",
+   "clanovi": [
+    107
+   ],
+   "kategorija": "moguća uvreda / dostojanstvo",
+   "citat": "pa vam to, da i niste naročite pameti, to vam donese određeno iskustvo i donese vam određeno znanje.",
+   "pouzdanost": "visoka",
+   "obrazlozenje": "Moguća povreda dostojanstva Narodne skupštine upotrebom uvredljivih izraza.",
+   "id": "a24540"
+  }
+ ]
+}
